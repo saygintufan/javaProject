@@ -4,14 +4,13 @@ import java.io.IOException;
 
 public class questions {
 
-    static String question;
+    public static String question;
     private static String getQuestion = helpers.mainUrl;
 
     public static String getQuestion(String question) throws IOException {
         String data =helpers.executePost(getQuestion, "");
-        JSONObject json = helpers.readJsonFromUrl("https://trakyaunichatbot.firebaseio.com/WorkHard/first.json");
-        question = (String) json.get("message");
+        JSONObject json = helpers.readJsonFromUrl("http://saygintufan.com/chatbot/que.json");
+        question = (String) json.get("question");
         return question;
-
     }
 }

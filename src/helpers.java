@@ -11,6 +11,7 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
 
+
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -20,7 +21,7 @@ import java.util.List;
 
 public class helpers {
 
-    public static String mainUrl="https://trakyaunichatbot.firebaseio.com/WorkHard/first.json";
+    public static String mainUrl="http://saygintufan.com/chatbot/que.json";
 
     //region JsonStringFonk
     /*

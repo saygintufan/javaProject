@@ -7,6 +7,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="jar_files" level="project" />
+    <orderEntry type="library" name="weka" level="project" />
+    <orderEntry type="library" name="json-simple-1.1" level="project" />
+    <orderEntry type="library" name="json-20131018" level="project" />
+    <orderEntry type="library" name="itrules-json-reader-1.6.0" level="project" />
+    <orderEntry type="library" name="itrules-1.6.0" level="project" />
+    <orderEntry type="library" name="gson-2.3.1" level="project" />
   </component>
 </module>
