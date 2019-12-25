@@ -1,0 +1,2508 @@
+@relation set-sample
+
+@attribute question string
+@attribute class {rsp1, rsp2, rsp3, rsp4, rsp5, rsp6, rsp7, rsp8, rsp9, rsp10, rsp11, rsp12, rsp13 ,rsp14, rsp15, rsp16, rsp17, rsp18, rsp19, rsp20, rsp21, rsp22, rsp23, rsp24, rsp25, rsp26, rsp27, rsp28 ,rsp29, rsp30, rsp31, rsp32, rsp33, rsp34, rsp35, rsp36, rsp37, rsp38, rsp39, rsp40, rsp41, rsp42, rsp43, rsp44, rsp45, rsp46, rsp47, rsp48, rsp49, rsp50, rsp51, rsp52, rsp53, rsp54, rsp55, rsp56, rsp57, rsp58, rsp59, rsp60, rsp61, rsp62, rsp63, rsp64, rsp65, rsp66, rsp67, rsp68, rsp69, rsp70, rsp71, rsp72, rsp73, rsp74, rsp75, rsp76, rsp77, rsp78, rsp79, rsp80, rsp81, rsp82, rsp83, rsp84, rsp85, rsp86, rsp87, rsp88, rsp89, rsp90, rsp91, rsp92, rsp93, rsp94, rsp95, rsp96, rsp97, rsp98, rsp99, rsp100 ,rsp101, rsp103, rsp104, rsp105, rsp106, rsp107, rsp108, rsp109, rsp110, rsp111, rsp112, rsp113, rsp115, rsp116, rsp117, rsp118}
+
+@data
+'Öğrenci belgemi benim yerime başka bir öğrenci alabilir mi',rsp1
+'Öğrenci belgemi başkası alabilir mi',rsp1
+'Öğrenci belgemi arkadaşım alabilir mi',rsp1
+'Öğrenci belgemi annem alabilir mi',rsp1
+'Öğrenci belgemi akrabam alabilir mi',rsp1
+'Öğrenci belgemi benim yerime başka birisi alabilir mi',rsp1
+'Öğrenci belgesini başkası alabilir mi',rsp1
+'Öğrenci belgesini benim yerime başkası alabilir mi',rsp1
+'Öğrenci belgesini benim dışımda birisi alabilir mi',rsp1
+'Öğrenci belgesini başka birisi alabilir mi',rsp1
+'Öğrenci belgesini yalnızca ben mi alabilirim',rsp1
+'Öğrenci belgesini başkası alsa olurmu',rsp1
+'Benim öğrenci belgemi öğrenci işlerinden başka bir öğrenci alabilir mi',rsp1
+'Öğrenci belgemi öğrenci işlerinden başka birisi alabilir mi',rsp1
+'Öğrenci belgemi öğrenci işlerinden başka biri alabilir mi',rsp1
+'Öğrenci belgesini öğrenci işlerinden benim yerime başka bir kişi alabilir mi',rsp1
+'Öğrenci belgesini öğrenci işlerinden benim yerime annem alabilir mi',rsp1
+'Okulumdan öğrenci belgesini benim yerime bir başkası alabilir mi',rsp1
+'Üniversiteden öğrenci belgesini benim yerime bir başkası alsa olurmu',rsp1
+'Üniversiteden öğrenci belgesini benim yerime bir başka öğrenci alsa olur mu',rsp1
+'Başka bir öğrencinin öğrenci belgesini alabilir miyim',rsp1
+'Arkadaşımın öğrenci belgesini ben alabilir miyim',rsp1
+'Başkasının öğrenci belgesini ben alabilir miyim',rsp1
+'Herhangi biri benim yerime öğrenci işlerine gidip öğrenci belgesi alabilir mi',rsp1
+'Başkası benim yerime öğrenci belgesi alabilir mi',rsp1
+'Öğrenci belgesini yalnızca öğrencinin kendisi mi almalı yoksa bir başkası gidip o öğrencinin öğrenci belgesini alabilir mi ya da isteyebilir mi',rsp1
+'İsteyen herkes bir başkasının öğrenci belgesini öğrenci işlerinden alabilir mi alabilir mi',rsp1
+'Yabancı bir kişi gelip benim öğrenci belgemi alabilir mi',rsp1
+'Öğrenci belgemi benim dışımda bir yabancı alabilir mi ya da isteyebilir mi',rsp1
+'Öğrenci işleri benim öğrenci belgemi bir başkasına verebilir mi',rsp1
+'Öğrenci belgemi arkadaşım alsa olur mu',rsp1
+'Öğrenci belgemi arkadaşım alsa sorun olur mu',rsp1
+'Öğrenci belgemi arkadaşım alabiliyor mu',rsp1
+'Transkripti benim yerime başkası alabilir mi',rsp2
+'Transkripti başkası alabilir mi',rsp2
+'Transkripti arkadaşım alabilir mi',rsp2
+'Transkripti annem başkası alabilir mi',rsp2
+'Transkripti akrabam alabilir mi',rsp2
+'Transkripti benim yerime başka birisi alabilir mi',rsp2
+'Transkriptimi benim dışımda birisi alabilir mi',rsp2
+'Transkripti benim dışımda birisi alabilir mi',rsp2
+'Transkripti başkası alsa olur mu',rsp2
+'Benim transkripti öğrenci işlerinden başka bir öğrenci alabilir mi',rsp2
+'Transkripti öğrenci işlerinden başka birisi alabilir mi',rsp2
+'Transkripti öğrenci işlerinden başkası alabilir mi',rsp2
+'Üniversiteden transkripti benim yerime başka birisi alabilir mi alabilir mi',rsp2
+'Transkripti benim yerime herhangi biri alabilir mi',rsp2
+'Transkripti yalnızca öğrenci kendisi mi almalı yoksa bir başkası gidip o öğrencinin transkriptini alabilir mi ya da isteyebilir mi',rsp2
+'İsteyen herkes bir başkasının transkriptini alabilir mi',rsp2
+'Transkripti arkadaşım alsa olur mu ',rsp2
+'Transkripti arkadaşım alsa sorun olur mu ',rsp2
+'Transkripti arkdaşım alabiliryor mu',rsp2
+'Arkadaşımın transkriptini ben alabilir miyim',rsp2
+'Yabancı bir kişi gelip benim transkriptimi alabilir mi',rsp2
+'Öğrenci işleri benim transkriptimi bir başkasına verebilir mi',rsp2
+'Kampüs kart başvurumu nasıl yapabilirim',rsp3
+'Üniversite kampüs kart başvurusunu benim yerime yapıyor mu',rsp3
+'Üniversite kampüs kart başvurusunu benim yerime mi yapıyor',rsp3
+'Üniversite kampüs kart başvurusunu her öğrenci için kendisi mi yapıyor',rsp3
+'Üniversite kampüs kart başvurusunu ben mi yapacağım',rsp3
+'Üniversite kampüs kart başvurusu hakkında bilgi alabilir miyim',rsp3
+'Üniversite kampüs kart başvurusu nasıl yapılır',rsp3
+'Üniversite kampüs kart başvurusu yapacakmıyım',rsp3
+'Üniversite kampüs kart başvurusu nasıl yapılıyor',rsp3
+'Üniversite kampüs kart başvurusunu kim yapacak',rsp3
+'Kampüs kart başvurusu yapacağım bana bilgi verir misin',rsp3
+'Kampüs kart başvurusunu yapmama gerek var mı',rsp3
+'Kampüs kart nasıl başvurulur',rsp3
+'Kampüs kart başvurusunu kim yapar',rsp3
+'Üniversite kampüs kart başvurusu hakkında bilgi alabilir miyim',rsp3
+'Üniversite benim yerime kampüs kart başvurusu yapıyor mu',rsp3
+'Üniversite benim yerime kampüs kart başvurusu yapar mı',rsp3
+'Kampüs kart başvurusunu öğrenci kendisi mi yapmalı yoksa bir başkası yapabilir mi',rsp3
+'Kampüs kart başvurusunu arkadaşım yapabilir mi',rsp3
+'Kampüs kart başvurusunu öğrenci işlerimi yapıyor',rsp3
+'Kampüs kart başvurusunu kim yapmalı',rsp3
+'Kampüs kart başvurusunu otomatik yapılmaktamıdır',rsp3
+'Kampüs kartı nerelerde kullanılır',rsp4
+'Kampüs kartı nerelerde kullanabilirim',rsp4
+'Kampüs kart nerelerde kullanılır',rsp4
+'Kampüs kart hangi yerlerde kullanılır',rsp4
+'Kampüs kart sadece fakülteye giriş çıkışlar da mı kullanılır',rsp4
+'Kampüs kart sadece fakülteye giriş çıkışlar da mı kullanılır yoksa başka yerlerde kullanılabilir mi',rsp4
+'Kampüs kart sadece fakülteye giriş çıkışlar da mı kullanılır yoksa başka yerlerde kullanılabilir mi öyleyse bilgi verir misin',rsp4
+'Kampüs kartım ne işe yarar',rsp4
+'Kampüs kart ne işe yarayacak',rsp4
+'Kampüs kart ne işime yarayacak',rsp4
+'Kampüs kart hangi işime yarayacak',rsp4
+'Kampüs kart kullanım yerleri nedir',rsp4
+'Kampüs kart kullanım alanları nedir',rsp4
+'Kampüs kart kullanım alanlarını bana söyler misin',rsp4
+'Kampüs kartı okul yemekhanesinde kullanabilir miyim',rsp4
+'Kampüs kartı kampüs dışında nerelerde kullanabilirim',rsp4
+'Kampüs kart kullanımı hakkında detay verir misin',rsp4
+'Kampüs kart hangi alanlarda işime yarayacaktır',rsp4
+'Kampüs kart okul yemekhanesi fakülteye giriş çıkış kütüphane gibi yerlerde kullanabilir miyim',rsp4
+'Kampüs kart okul yemekhanesi fakülteye giriş çıkış kütüphane gibi yerlerde kullanamaz mıyım',rsp4
+'Kampüs kart okul yemekhanesi fakülteye giriş çıkış kütüphane gibi yerlerde kullanıldığı doğrumudur',rsp4
+'Kampüs kart okul yemekhanesi dışında kullanıldığı yerler neresidir',rsp4
+'Kampüs kart kayboldu',rsp5
+'Kampüs kart kaybettim',rsp5
+'Kampüs kartım kayıp oldu',rsp5
+'Kampüs kart kayıp edildi',rsp5
+'Kampüs kartımı kaybetmişim',rsp5
+'Kampüs kartımı çaldırdım',rsp5
+'Kampüs kartım kırıldı',rsp5
+'Kampüs kartım bozuldu',rsp5
+'Kampüs kartımın yenisini çıkartmam gerek napıcam',rsp5
+'Kampüs kartımın yenisini çıkartmalıyım napıcam',rsp5
+'Kampüs kartımın yenisini çıkartmalıyım ne yapıcam',rsp5
+'Kampüs kartımın yenisini çıkartmalıyım ne yapmalıyım',rsp5
+'Kampüs kart çalındı bana yardım et',rsp5
+'Kampüs kart çalındı nereden çıkartıcam',rsp5
+'Kampüs kart çalındı yenisini çıkartmak için ne yapmalıyım',rsp5
+'Kampüs kart çalındı yenisini çıkartmak için bankaya mı başvurmalıyım',rsp5
+'Kampüs kart kayboldu yenisini nasıl çıkartıcam',rsp5
+'Kampüs kart kayboldu ne yapmalıyım',rsp5
+'Kartım kayboldu bana yardım et',rsp5
+'Kartım kayboldu yenisi için ne yapmalıyım',rsp5
+'Okul kartımı kaybettim napacağım',rsp5
+'Okul kartımı kaybettim ne yapacağım',rsp5
+'Kampüs kart çıkartmak için yapılması gerekenler',rsp5
+'Kampüs kart çıkartmak için ne yapılmalı',rsp5
+'Kyk bursu nasıl kesilir',rsp6
+'Kyk bursu hangi sebeple kesilir',rsp6
+'Kyk bursu ne olursa kesilir',rsp6
+'Kyk bursu kesilir mi',rsp6
+'Genel ortalamam düşük olunca kyk bursu kesilir mi',rsp6
+'Genel ortalama düşük olunca kyk bursu kesilir mi',rsp6
+'Genel ortalamam düşük olunca kyk burs kesilir mi',rsp6
+'Genel ortalama düşük olunca kyk burs kesilir mi',rsp6
+'Genel ortalamam düşük olunca kyk burs kesilecek mi',rsp6
+'Genel ortalama düşük olunca kyk burs kesilecek mi',rsp6
+'Genel ortalama iki buçuk altında kyk burs kesilecek mi',rsp6
+'Kyk burs krediye nasıl döner',rsp6
+'Kyk burs kesilince krediye döner mi',rsp6
+'Kyk burs iptal edilip krediye döner mi',rsp6
+'Kyk burs neden iptal edilir',rsp6
+'Kyk burs hangi durumlarda kesilir',rsp6
+'Bursum kesilir mi',rsp6
+'Bursum hangi durumlarda kesilir',rsp6
+'Disiplin suçu işledim bursum kesilir mi',rsp6
+'Disiplin suçu işleyince burs kesilir mi',rsp6
+'Disiplin suçu işleyince kyk burs kesilir mi',rsp6
+'Disiplin suçu işleyince kyk burs iptal edilir mi',rsp6
+'Disiplin suçu işleyince kyk burs krediye mi döner',rsp6
+'Kyk burs kesilince ne olur',rsp7
+'Kyk burs iptal edilince ne olur',rsp7
+'Kyk burs iptal edilince bir şey olur mu',rsp7
+'Bursum iptal edilince bir şey olur mu',rsp7
+'Bursum kesilince bir şey olur mu',rsp7
+'Bursum kesildi şimdi ne olacak',rsp7
+'Kyk bursu kesildi şimdi ne olacak',rsp7
+'Kyk burs kesilince krediye mi döner',rsp7
+'Bursum kesildi krediye mi dönüşecek',rsp7
+'Bursum kesildi krediye mi dönecek',rsp7
+'Bursum kesildi ne olacak',rsp7
+'Bursum kesilirse ne olur',rsp7
+'Kyk burs kesilirse ne olur',rsp7
+'Kyk bursum kesildiği zaman ne olur',rsp7
+'Kyk bursum kesildiği zaman bir şey olur mu',rsp7
+'Kyk burs kesildiği zaman bir şey olur mu',rsp7
+'Kyk burs kesildi ne yapacağım',rsp7
+'Kyk burs kesilince krediye mi çevirilir',rsp7
+'Kyk burs kesilince krediye çevrilir mi',rsp7
+'Bursum kesildiğinde ne olur',rsp7
+'Yaz okulu ne zaman başlıyor',rsp8
+'Yaz okulu ne zaman açılacak',rsp8
+'Yaz okulu tarihi',rsp8
+'Yaz okulu hangi gün başlıyor',rsp8
+'Yaz okulu hangi ay başlıyor',rsp8
+'Yaz okulu açılış tarihi nedir',rsp8
+'Yaz okulu açılış tarihi hakkında bilgi verir misin',rsp8
+'Yaz okulu açılış tarihi hakkında bilgi alabilir miyim',rsp8
+'Yaz okulu ne zaman başlayacak',rsp8
+'Yaz okulu hangi ay açılacak',rsp8
+'Yaz okulu hangi tarihte açılacak',rsp8
+'Yaz okulu açılış tarihini öğrenebilirmiyim',rsp8
+'Trakya üniversitesi yaz okulu açılış tarihi nedir',rsp8
+'Üniversitemin yaz okulu ne zaman açılacak',rsp8
+'Üniversitenin yaz okulu hangi tarihte açılacak',rsp8
+'Üniversitenin yaz okulu açılış tarihi nedir',rsp8
+'Bu dönemki yaz okulu ne zaman açılacak',rsp8
+'Bana yaz okulu açılış tarihini söyle',rsp8
+'Yaz okulu açılış tarihini nereden öğrenebilirim',rsp8
+'Yaz okulu açılış tarihi hakkında bilgi almak istiyorum',rsp8
+'Yaz okuluna nasıl kayıt yaptırılır',rsp9
+'Yaz okulu nasıl kayıt yaptırılır',rsp9
+'Yaz okulu nasıl kayıt yaptırılır bilgi alabilir miyim',rsp9
+'Yaz okulu nasıl kayıt yaptırıcam',rsp9
+'Yaz okulu kaydımı nasıl yaparım',rsp9
+'Yaz okulu kaydı online yapılır mı',rsp9
+'Yaz okulu kaydı nereden yapılır',rsp9
+'Yaz okulu kaydı hangi siteden yapılır',rsp9
+'Yaz okulu kaydı siteden yapılır mı',rsp9
+'Yaz okulu kaydımı yaptırmak istiyorum ne yapmalıyım',rsp9
+'Yaz okulu kaydımı şehir dışından yapabilir miyim',rsp9
+'Yaz okulu kaydımı internetten yapabilir miyim',rsp9
+'Yaz okulu kaydını internetten yapabilir miyim',rsp9
+'Yaz okuluna kayıt nereden yapılır',rsp9
+'Yaz okuluna kayıt hangi siteden yapılır',rsp9
+'Yaz okuluna kayıt online yapılır mı',rsp9
+'Yaz okuluna kayıt yaptırmak istiyorum ne yapacağım',rsp9
+'Yaz okuluna kayıt için hangi siteye gireceğim',rsp9
+'Yaz okuluna kayıt için ne yapmalıyım',rsp9
+'Yaz okuluna kayıt için ne yapmam gerek',rsp9
+'Yaz okulunda aldığım dersten kalınca sonraki dönemlerde devam zorunluluğum var mı',rsp10
+'Yaz okulunda aldığım dersten kalınca sonraki dönemde devam zorunluluğum var mı',rsp10
+'Yaz okuluna bırakılan dersten kaldım sonraki dönemde o ders için devam zorunluluğu var mı',rsp10
+'Yaz okulunda verilemeyen bir dersin sonraki dönemde devam zorunluluğu olur mu',rsp10
+'Yaz okulunda veremediğim bir dersin sonraki dönem devam zorunluluğu olur mu',rsp10
+'Yaz okulunda veremediğim bir dersin sonraki dönemde devam zorunluluğu olur mu',rsp10
+'Yaz okulunda veremediğim bir dersin sonraki dönemde aldığımda devam zorunluluğu olur mu',rsp10
+'Yaz okulunda veremediğim bir dersin sonraki dönem aldığımda devam zorunluluğu olur mu',rsp10
+'Yaz okulunda veremediğim bir dersin sonraki dönemde aldığımda devamsızlık yapabilir miyim',rsp10
+'Yaz okulunda veremediğim bir dersin sonraki dönem aldığımda devamsızlık yapabilir miyim',rsp10
+'Yaz okulunda veremediğim bir dersin sonraki dönemde aldığımda devamsızlık sayılır mı',rsp10
+'Yaz okulunda verilemeyen bir dersin sonraki dönem alındığında devam zorunluluğu olur mu',rsp10
+'Yaz okulunda verilemeyen bir dersin sonraki dönemde alındığında devam zorunluluğu olur mu',rsp10
+'Yaz okulunda verilemeyen bir dersin sonraki dönem alındığında devamsızlık sayılır mı',rsp10
+'Yaz okulunda aldığım dersten kaldı sonraki dönem alındığında devamsızlık sayılır mı',rsp10
+'Yaz okulunda aldığım dersten kaldı sonraki dönem alacağım devamsızlık sayılır mı',rsp10
+'Yaz okulunda aldığım dersten kaldı bir sonraki dönem alacağım devamsızlık sayılır mı',rsp10
+'Yaz okulunda aldığım dersten kaldı bir sonraki dönem alındığında devam zorunluluğu var mı',rsp10
+'Yaz okulunda daha önce alınmayan bir ders alınabilir mi',rsp11
+'Yaz okulunda önceden almadığım bir dersi almak istiyorum',rsp11
+'Yaz okulunda önceden almadığım bir dersi alabilir miyim',rsp11
+'Yaz okulunda daha önceden almadığım bir dersi alabilir miyim',rsp11
+'Yaz okulunda hiç almadığım almadığım bir dersi alabilir miyim',rsp11
+'Yaz okulunda hiç alınmayan bir ders alınabilir mi',rsp11
+'Yaz okulu hiç alınmayan bir ders alınabilir mi',rsp11
+'Yaz okulu daha önce alınmayan bir ders alınır mı',rsp11
+'Yaz okulunda daha önce alınmayan bir ders alınsa sorun olur mu',rsp11
+'Yaz okuluna daha önce alınmayan bir dersi ekleyebilir miyim',rsp11
+'Daha önce almadığım bir dersi yaz okulu için alabilir miyim',rsp11
+'Hiç almadığım almadığım bir dersi yaz okulu için alabilir miyim',rsp11
+'Daha önce alınmayan dersler yaz okulunda alınır mı',rsp11
+'Ben yaz okulunda önceden almadığım bir dersi alabilir miyim',rsp11
+'Yaz okulu daha önce alınmayan bir ders alınabilir mi',rsp11
+'Yaz okulunda yeni bir ders alabilir miyim',rsp11
+'Yaz okulu yeni bir ders alınır mı',rsp11
+'Yaz okulu üstten ders alınabilir mi',rsp11
+'Yaz okulu üst sınıftan ders alınabilir mi',rsp11
+'Yaz okulu üst sınıftan ders alabilir miyim',rsp11
+'Yaz okulunda üst sınıftan bir ders alabilir miyim',rsp11
+'Örgün öğretimler harç yatırır mı',rsp12
+'Örgün öğretimler 4 yıl sonunda mı harç yatırır',rsp12
+'Örgün öğretimler 4 yıl sonunda mı harç parası yatırır',rsp12
+'Örgün öğretim 4 yıl sonunda mı harç yatırır',rsp12
+'Örgün öğretim 4 yıl sonunda mı harç parası yatırır',rsp12
+'Örgün öğretim ilk yıl sonunda mı harç parası yatırır',rsp12
+'Örgün öğretim birinci yıl sonunda mı harç parası yatırır',rsp12
+'Örgün öğretimler birinci yıl sonunda mı harç parası yatırır',rsp12
+'Örgün öğretimler harç yatıracak mıdır',rsp12
+'Örgün öğretimler harç parası yatıracak mıdır',rsp12
+'Örgün öğretim bir öğrenci harç yatıracak mıdır',rsp12
+'Örgün öğretim bir öğrenci harç parası yatıracak mıdır',rsp12
+'Örgün öğretim harcı hakkında bilgi verir misin',rsp12
+'Örgün öğretim harcı nasıl oluyor',rsp12
+'Örgün öğretim harç yatırma işi nasıl oluyor',rsp12
+'Örgün öğretim harç parası yatırma işi nasıl oluyor',rsp12
+'Örgün öğretim harç parası yatırma işi ne zaman oluyor',rsp12
+'Örgün öğretim harç yatırma işi ne zaman oluyor',rsp12
+'Örgün öğretim harç yatırma işi hangi zaman oluyor',rsp12
+'Örgün öğretim harç parası yatırma işi hangi zaman oluyor',rsp12
+'Örgün öğretim harç yatırma işi oluyor mu',rsp12
+'Örgün öğretim harç parası yatırma işi var mı',rsp12
+'Örgün öğretim harç yatırma işi var mı',rsp12
+'Örgün öğretimler için harç yatırma işi var mı',rsp12
+'Örgün öğretimler için harç parası yatırır mı',rsp12
+'Örgün öğretim için harç parası yatırır mı',rsp12
+'Örgün öğretimler için harç yatırır mı',rsp12
+'Örgün öğretim için harç para yatırmak',rsp12
+'Staj başvurusu için gerekli evraklar nelerdir',rsp13
+'Staj başvurusu evrakları',rsp13
+'Staj başvurusu evrakları varmı',rsp13
+'Staj başvurusu evrakları lazım',rsp13
+'Staj başvurusu gerekli olan evraklar nelerdir',rsp13
+'Staj başvurusu yapacağım',rsp13
+'Staj başvurusu için gerekenler',rsp13
+'Staj başvurusu için ne yapmalıyım',rsp13
+'Staj başvurusu için ne yapılır',rsp13
+'Staj başvuru formu var mı',rsp13
+'Staj için başvururken gerekli evraklar nelerdir',rsp13
+'Staj başvurusu evrakları hakkında bilgi alabilir miyim',rsp13
+'Staj başvuru evrakları',rsp13
+'Staj başvurusu yapacağım yönlendirir misin',rsp13
+'Staj başvurusu yapacağım link verir misin',rsp13
+'Staj başvurusu yapacağım evrak linki verir misin',rsp13
+'Staj başvurusu yapacağım ne gerekli',rsp13
+'Staj başvurusu yapacağım gerekli olan dosyalar nelerdir',rsp13
+'Staj başvurusu yapacağım gerekli olan dosyalar varmıdır',rsp13
+'Staj başvurusu için gerekli evraklar neler',rsp13
+'Staj son başvuru tarihleri ne zaman',rsp14
+'Staj başvurusunu ne zaman yapmalıyım',rsp14
+'Staj başvurusunu hangi zaman yapmalıyım',rsp14
+'Staj başvurusunu stajdan hemen önce yapsam olur mu',rsp14
+'Staj başvurusunu stajdan bir gün önce yapsam olur mu',rsp14
+'Staj başvurusunu stajdan iki gün önce yapsam olur mu',rsp14
+'Staj başvurusunu stajdan üç gün önce yapsam olur mu',rsp14
+'Staj başvurusunu stajdan dört gün önce yapsam olur mu',rsp14
+'Staj başvurusunu stajdan beş gün önce yapsam olur mu',rsp14
+'Staj başvurusunu stajdan 1 hafta önce yapsam olur mu',rsp14
+'Staj son başvurusu ne zaman yapılmalı',rsp14
+'Staj son başvurusu hangi zaman yapılmalı',rsp14
+'Staj başvurusunu stajdan kaç gün önce yapmalıyım',rsp14
+'Staj son başvurusu tarihleri nedir',rsp14
+'Staj son başvuru tarihleri nedir',rsp14
+'Staj son başvurusu tarihlerini öğrenebilir miyim',rsp14
+'Staj son başvuru tarihlerini öğrenebilir miyim',rsp14
+'Staj son başvuru tarihini öğrenebilir miyim',rsp14
+'Staj son başvuru tarihi',rsp14
+'Staj son başvuru tarihleri',rsp14
+'Staj dönemleri nelerdir',rsp15
+'Staj dönemleri varmıdır',rsp15
+'Staj dönemleri fakülte tarafından mı belirlenir',rsp15
+'Staj dönemleri kim tarafından belirlenir',rsp15
+'Staj dönemlerini nereden öğrenebilirim',rsp15
+'Staj dönemleri hakkında bilgi alabilir miyim',rsp15
+'Staj dönemleri kaç dönemdir',rsp15
+'Staj dönemleri hakkında',rsp15
+'Staj dönemlerini kim belirler',rsp15
+'Staj dönemleri üniversite tarafından mı belirlenir',rsp15
+'Staj dönemlerini fakültemi belirler',rsp15
+'Staj dönemlerini okul mu belirler',rsp15
+'Staj dönemlerini üniversite mi belirler',rsp15
+'Staj defteri teslim tarihi ne zaman', rsp16
+'Staj defterimin teslim tarihi ne zaman', rsp16
+'Staj defterleri teslim tarihi ne zaman', rsp16
+'Bölümümün staj defteri teslim tarihi ne zaman', rsp16
+'Üniversitenin staj defteri teslim tarihi ne zaman', rsp16
+'Okulun staj defteri teslim tarihi ne zaman', rsp16
+'Okulumun staj defteri teslim tarihi ne zaman', rsp16
+'Staj defteri teslimi ne zaman', rsp16
+'Staj defterimin teslimi ne zaman', rsp16
+'Staj defterlerinin teslimi ne zaman', rsp16
+'Okulun staj defteri ne zaman', rsp16
+'Bölümümün staj defteri teslimi ne zaman', rsp16
+'Üniversitenin staj defteri teslimi ne zaman', rsp16
+'Okulumun staj defteri teslimi ne zaman', rsp16
+'Staj defteri ne zaman teslim edilecek', rsp16
+'Staj defterimi ne zaman teslim etmeliyim', rsp16
+'Staj defterleri ne zaman teslim edilecek', rsp16
+'Staj defterlerini ne zaman teslim edeceğiz', rsp16
+'Staj defterlerimizi ne zaman teslim edeceğiz', rsp16
+'Staj defterimi ne zaman teslim edeceğim', rsp16
+'Staj defterimi ne zaman teslim edicem', rsp16
+'Staj defterlerini ne zaman teslim edecez', rsp16
+'Staj defterini ne zaman teslim ediyoruz', rsp16
+'Staj defterlerimizi ne zaman teslim edecez', rsp16
+'Staj defterleri hangi tarihlerde teslim ediliyor', rsp16
+'Staj defterini hangi tarihte teslim edeceğiz', rsp16
+'Staj defterimi hangi tarihte teslim edeceğim', rsp16
+'Staj defterimi hangi tarihte teslim edicem', rsp16
+'Staj defterlerini hangi tarihlerde teslim edeceğiz', rsp16
+'Staj defterlerimizi hangi tarihlerde teslim edeceğiz', rsp16
+'Okulun staj defteri teslimi hangi tarihlerde', rsp16
+'Bölümümün staj defteri teslimi hangi tarihlerde', rsp16
+'Üniversitenin staj defteri teslimi hangi tarihlerde', rsp16
+'Staj defterimi hangi zaman teslim etmeliyim', rsp16
+'Staj defterimi hangi zaman teslim edicem', rsp16
+'Staj defterini hangi zaman teslim edeceğiz', rsp16
+'Staj defterlerini hangi zaman teslim edeceğiz', rsp16
+'Staj defterlerini hangi zaman teslim etmeliyiz', rsp16
+'Staj defterlerini hangi zaman teslim etmeliyim', rsp16
+'Staj defterlerimizi hangi zamanlarda teslim etmeliyiz', rsp16
+'Staj defterlerimizi hangi zaman teslim edeceğiz', rsp16
+'Staj defterlerimizi hangi zaman teslim edicez', rsp16
+'Staj defterini hangi günlerde teslim edeceğiz', rsp16
+'Staj defterimi hangi günlerde teslim edeceğim', rsp16
+'Staj defterleri hangi günlerde teslim ediliyor', rsp16
+'Staj defteri teslim tarihi', rsp16
+'Staj defterimin teslim tarihi', rsp16
+'Staj defterlerinin teslim tarihi', rsp16
+'Staj defterlerimizin teslim tarihi', rsp16
+'Okulumun staj defteri teslim tarihi', rsp16
+'Bölümümün staj defteri teslim tarihi', rsp16
+'Üniversitenin staj defterleri teslim tarihi', rsp16
+'Okulumun staj defterleri teslim tarihi', rsp16
+'Bölümümün staj defterleri teslim tarihi', rsp16
+'Üniversitenin staj defterleri teslim tarihi', rsp16
+'Staj sigortasını okul karşılıyor mu', rsp17
+'Staj sigortamı okul karşılıyor mu', rsp17
+'Staj sigortamızı okul karşılıyor mu', rsp17
+'Staj sigortalarımızı okul karşılıyor mu', rsp17
+'Okul staj sigortamı karşılıyor mu', rsp17
+'Okul staj sigortamızı karşılıyor mu', rsp17
+'Okul staj sigortalarını karşılıyor mu', rsp17
+'Okul staj sigortasını karşılıyor mu', rsp17
+'Üniversite staj sigortamı karşılıyor mu', rsp17
+'Üniversite staj sigortamızı karşılıyor mu', rsp17
+'Üniversite staj sigortalarını karşılıyor mu', rsp17
+'Üniversite staj sigortasını karşılıyor mu', rsp17
+'Bölümümüm staj sigortamı karşılıyor mu', rsp17
+'Bölümümüz staj sigortamızı karşılıyor mu', rsp17
+'Bölümümüm staj sigortalarını karşılıyor mu', rsp17
+'Bölümümüm staj sigortasını karşılıyor mu', rsp17
+'Staj sigortasını okul karşılayacak mı', rsp17
+'Staj sigortamızı okul karşılayacak mı', rsp17
+'Staj sigortalarımızı okul karşılayacak mı', rsp17
+'Staj sigortalarını okul karşılacak mı', rsp17
+'Okul staj sigortamı karşılayacak mı', rsp17
+'Okul staj sigortamızı karşılayacak mı', rsp17
+'Okul staj sigortalarını karşılayacak mı', rsp17
+'Okul staj sigortasını karşılayacak mı', rsp17
+'Üniversite staj sigortamı karşılayacak mı', rsp17
+'Üniversite staj sigortamızı karşılayacak mı', rsp17
+'Üniversite staj sigortalarını karşılayacak mı', rsp17
+'Üniversite staj sigortasını karşılayacak mı', rsp17
+'Bölümümüm staj sigortamı karşılayacak mı', rsp17
+'Bölümümüz staj sigortamızı karşılayacak mı', rsp17
+'Bölümümüm staj sigortalarını karşılayacak mı', rsp17
+'Bölümümüm staj sigortasını karşılayacak mı', rsp17
+'Staj sigortasını okul karşılar mı', rsp17
+'Staj sigortamızı okul karşılar mı', rsp17
+'Staj sigortalarımızı okul karşılar mı', rsp17
+'Staj sigortalarını okul karşılar mı', rsp17
+'Okul staj sigortamı karşılar mı', rsp17
+'Okul staj sigortamızı karşılar mı', rsp17
+'Okul staj sigortalarını karşılar mı', rsp17
+'Okul staj sigortasını karşılar mı', rsp17
+'Üniversite staj sigortamı karşılar mı', rsp17
+'Üniversite staj sigortamızı karşılar mı', rsp17
+'Üniversite staj sigortalarını karşılar mı', rsp17
+'Üniversite staj sigortasını karşılar mı', rsp17
+'Bölümümüm staj sigortamı karşılar mı', rsp17
+'Bölümümüz staj sigortamızı karşılar mı', rsp17
+'Bölümümüm staj sigortalarını karşılar mı', rsp17
+'Bölümümüm staj sigortasını karşılar mı', rsp17
+'Okul staj sigortamı yapacak mı', rsp17
+'Okul staj sigortamızı yapacak mı', rsp17
+'Okul staj sigortalarını yapacak mı', rsp17
+'Okul staj sigortasını yapacak mı', rsp17
+'Üniversite staj sigortamı yapacak mı', rsp17
+'Üniversite staj sigortamızı yapacak mı', rsp17
+'Üniversite staj sigortalarını yapacak mı', rsp17
+'Üniversite staj sigortasını yapacak mı', rsp17
+'Bölümümüm staj sigortamı yapacak mı', rsp17
+'Bölümümüz staj sigortamızı yapacak mı', rsp17
+'Bölümümüm staj sigortalarını yapacak mı', rsp17
+'Bölümümüm staj sigortasını yapacak mı', rsp17
+'Staj sigorta belgesi nasıl teslim alınır', rsp18
+'Staj sigorta belgemi nasıl teslim alırım', rsp18
+'Staj sigorta belgesini nasıl teslim alırım', rsp18
+'Staj sigorta belgesini nasıl teslim alırız', rsp18
+'Staj sigorta belgemizi nasıl teslim alırız', rsp18
+'Staj sigorta belgelerini nasıl teslim alırız', rsp18
+'Staj sigorta belgelerimizi nasıl teslim alırız', rsp18
+'Okuldan staj sigorta belgesini nasıl teslim alırım', rsp18
+'Okuldan staj sigorta belgemi nasıl teslim alırım', rsp18
+'Okuldan staj sigorta belgelerimizi nasıl teslim alabiliriz', rsp18
+'Okuldan staj sigorta belgelerini nasıl teslim alabiliriz', rsp18
+'Üniversiteden staj sigorta belgesini nasıl teslim alırım', rsp18
+'Üniversiteden staj sigorta belgemi nasıl teslim alırım', rsp18
+'Üniversiteden staj sigorta belgelerimizi nasıl teslim alabiliriz', rsp18
+'Üniversiteden staj sigorta belgelerini nasıl teslim alabiliriz', rsp18
+'Staj sigorta belgesi teslim alma', rsp18
+'Okuldan staj sigorta belgesi teslim alma', rsp18
+'Üniversiteden staj sigorta belgesi teslim alma', rsp18
+'Staj sigorta belgesini nasıl teslim alıyoruz', rsp18
+'Okuldan staj sigorta belgesini nasıl alıyoruz', rsp18
+'Üniversiteden staj sigorta belgesini nasıl alıyoruz', rsp18
+'Staj sigorta belgemi nasıl teslim alacağım', rsp18
+'Okuldan staj sigorta belgemi teslim alacağım', rsp18
+'Üniversiteden staj sigorta belgemi teslim alacağım', rsp18
+'Staj sigorta belgelerimizi nasıl teslim alacağız', rsp18
+'Okuldan staj sigorta belgelerimizi nasıl teslim alacağız', rsp18
+'Üniversiteden staj sigorta belgelerimizi nasıl teslim alacağız', rsp18
+'Staj sigorta belgesini nasıl teslim alıcam', rsp18
+'Okuldan staj sigorta belgesini nasıl teslim alıcam', rsp18
+'Üniversiteden staj sigorta belgesini nasıl teslim alıcam', rsp18
+'Staj sigorta belgesini nasıl alcam', rsp18
+'Okuldan staj sigorta belgesini nasıl alcam', rsp18
+'Üniversiteden staj sigorta belgesini nasıl alcam', rsp18
+'Staj sigorta belgesi nereden alınır', rsp18
+'Staj sigorta belgesini nerden alıcam', rsp18
+'Staj sigorta belgelerimiz nerden alıcaz', rsp18
+'Okuldan staj sigorta belgelerini nerden alıcaz', rsp18
+'Üniversiteden staj sigorta belgesini nerden alıcam', rsp18
+'Staj sigorta belgemi nereden alabilirim', rsp18
+'Staj sigorta belgesini nereden alabiliriz', rsp18
+'Staj sigorta belgelerimizi nereden alabiliriz', rsp18
+'Okulda staj sigorta belgesini nereden alabilirim', rsp18
+'Üniversitede staj sigorta belgesini nereden alabilirim',rsp18
+'Staj sigorta belgesi kimden alınır', rsp18
+'Staj sigorta belgemi kimden alabilirim', rsp18
+'Staj sigorta belgemizi kimden alabiliriz', rsp18
+'Staj sigorta belgelerini kimden alabiliriz', rsp18
+'Staj sigorta belgesini nereden temin edilir', rsp18
+'Staj belgelerimi arkadaşım verip alabilir mi', rsp19
+'Staj belgelerimi arkadaşım teslim alabilir mi', rsp19
+'Staj belgelerimi arkadaşım teslim edebilir mi', rsp19
+'Staj belgelerimi arkadaşım getirebilir mi', rsp19
+'Staj belgelerimi arkadaşım alabilir mi', rsp19
+'Staj belgelerimi arkadaşım gösterebilir mi', rsp19
+'Staj belgelerimi arkadaşıma verebilir misiniz', rsp19
+'Staj belgelerini arkadaşım teslim etmesi mümkün mü', rsp19
+'Staj belgelerimi arkadaşımın alması mümkün mü', rsp19
+'Staj belgelerimi başka birisi teslim edebilir mi', rsp19
+'Staj belgelerimi başka birisi getirebilir mi', rsp19
+'Staj belgelerimi başka birisi alabilir mi', rsp19
+'Staj belgelerimi başka birisi gösterebilir mi', rsp19
+'Staj belgelerimi başka birisi verebilir mi', rsp19
+'Staj belgelerimi başka birisinin alması mümkün mü', rsp19
+'Staj belgelerimi başka birisinin verip alması mümkün mü', rsp19
+'Staj belgelerimi annem verip alabilir mi', rsp19
+'Staj belgelerimi annem teslim edebilir mi', rsp19
+'Staj belgelerimi annem alabilir mi', rsp19
+'Staj belgelerimi annem gösterebilir mi', rsp19
+'Staj belgelerimi annem verebilir mi', rsp19
+'Staj belgelerimi annemin verip alması mümkün mü', rsp19
+'Staj belgelerimi benim dışımda biri verebilir mi', rsp19
+'Staj belgelerimi benim dışımda biri verip alabilir mi', rsp19
+'Staj belgelerimi benim dışımda biri teslim edebilir mi', rsp19
+'Staj belgelerimi benim dışımda biri gösterebilir mi', rsp19
+'Staj belgelerimi benim dışımda biri verip alması mümkün mü', rsp19
+'Staj belgelerimi akrabam verip alabilir mi', rsp19
+'Staj belgelerimi akrabam teslim edebilir mi', rsp19
+'Staj belgelerimi akrabam alabilir mi', rsp19
+'Staj belgelerimi akrabam gösterebilir mi', rsp19
+'Staj belgelerimi akrabam verebilir mi', rsp19
+'Staj belgelerimi akrabam verip alması mümkün mü', rsp19
+'Staj belgelerimi almasam olur mu', rsp19
+'Staj belgelerimi ben verip almasam olur mu', rsp19
+'Staj belgelerimi ben teslim almasam olur mu', rsp19
+'Staj belgelerimi ben göstermesem olur mu', rsp19
+'Staj belgemi ben vermesem olur mu', rsp19
+'Staj sicil belgesinde fotoğraf gerekir mi', rsp20
+'Staj sicil belgesinde fotoğraf olmalı mı', rsp20
+'Staj sicil belgesinde fotoğraf lazım mı', rsp20
+'Staj sicil belgesinde fotoğrafa gerek var mı', rsp20
+'Staj sicil belgesinde fotoğraf olması lazım mı', rsp20
+'Staj sicil belgesinde fotoğraf gerekiyor mu', rsp20
+'Staj sicil belgesinde fotoğrafım olmalı mı', rsp20
+'Staj sicil belgesinde fotoğrafım lazım mı', rsp20
+'Staj sicil belgesinde fotoğrafıma gerek var mı', rsp20
+'Staj sicil belgesinde fotoğrafım olması lazım mı', rsp20
+'Staj sicil belgesinde fotoğrafım gerekiyor mu', rsp20
+'Staj sicil belgesi içerisinde fotoğraf olmalı mı', rsp20
+'Staj sicil belgesi içerisinde fotoğraf lazım mı', rsp20
+'Staj sicil belgesi içerisinde fotoğrafa gerek var mı', rsp20
+'Staj sicil belgesi içerisinde fotoğraf olması lazım mı', rsp20
+'Staj sicil belgesi içerisinde fotoğraf gerekiyor mu', rsp20
+'Staj sicil belgesi içinde fotoğraf olmalı mı', rsp20
+'Staj sicil belgesi içinde fotoğraf lazım mı', rsp20
+'Staj sicil belgesi içinde fotoğrafa gerek var mı', rsp20
+'Staj sicil belgesi içinde fotoğraf olması lazım mı', rsp20
+'Staj sicil belgesi içinde fotoğraf gerekiyor mu', rsp20
+'Staj sicil belgesi içeriğinde fotoğraf lazım mı', rsp20
+'Staj sicil belgesi içeriğinde fotoğraf lazım mı', rsp20
+'Staj sicil belgesi içeriğinde fotoğrafa gerek var mı', rsp20
+'Staj sicil belgesi içeriğinde fotoğraf olması lazım mı', rsp20
+'Staj sicil belgesi içeriğinde fotoğraf gerekiyor mu', rsp20
+'Staj defterinin her sayfasında imza olmalı mı', rsp21
+'Staj defterinin sayfalarında imza olmalı mı', rsp21
+'Staj defterinin her sayfası imzalı olmalı mı', rsp21
+'Staj defterinin her sayfası imzalanmış olmalı mı',rsp21
+'Staj defterinin her sayfası imzalanmalı mı', rsp21
+'Staj defterinin sayfalarında imza gerekli mi', rsp21
+'Staj defterinin her sayfası imzalı olması gerekli mi', rsp21
+'Staj defterinin her sayfası imzalanmış olması gerekli mi',rsp21
+'Staj defterimin her bir sayfası imzalanmalı mı', rsp21
+'Staj defterimin her bir sayfası imzalı olmalı mı', rsp21
+'Staj defterimin her bir sayfası imzalanmış olmalı mı', rsp21
+'Staj defterimin her bir sayfasında imza gerekli mi', rsp21
+'Staj defterimin her bir sayfası imzalı olması gerekli mi', rsp21
+'Staj defterimin her bir sayfası imzalanmış olmalı gerekli mi', rsp21
+'Staj defterinin bütün sayfaları imzalı olmalı mı', rsp21
+'Staj defterinin bütün sayfalarında imza olmalı mı', rsp21
+'Staj defterinin bütün sayfaları imzalanmış olmalı mı', rsp21
+'Staj defterinin bütün sayfaları imzalanmalı mı', rsp21
+'Staj defterinin bütün sayfaları imzalı olması gerekli mi', rsp21
+'Staj defterinin bütün sayfaları imzalanmış olması mı gerekli mi', rsp21
+'Staj defterinin her sayfasında imza olması zorunlu mu', rsp21
+'Staj defterinin her sayfası imzalı olması zorunlu mu', rsp21
+'Staj defterinin her sayfası imzalanmış olması zorunlu mu',rsp21
+'Staj defteri sayfalarını imzalatmak zorunlu mu', rsp21
+'Staj defteri sayfalarını imzalatmak gerekli mi', rsp21
+'Staj defteri sayfalarını imzalatacak mıyız', rsp21
+'Kaç gün devamsızlık hakkım kaldığını nereden öğrenebilirim', rsp22
+'Kaç gün devamsızlık hakkım kaldı öğrenme', rsp22
+'Kaç gün devamsızlık hakkım kaldı öğrenebilir miyim', rsp22
+'Kaç gün devamsızlığım var öğrenme', rsp22
+'Kaç gün devamsızlığım var öğrenebilir miyim', rsp22
+'Kaç gün devamsızlığım var nerden öğrenicem', rsp22
+'Kaç gün devamsızlığım var kimden öğrenicem', rsp22
+'Kaç gün devamsızlık yapabilirim öğrenme', rsp22
+'Kaç gün devamsızlık yapabilirim öğrenebilir miyim', rsp22
+'Kaç gün devamsızlık yapabilirim nerden öğrenebilirim', rsp22
+'Kaç gün devamsızlık yapabilirim kimden öğrenebilirim', rsp22
+'Kalan devamsızlık hakkımı nereden öğrenebilirim', rsp22
+'Kalan devamsızlık hakkımı kimden öğrenebilirim', rsp22
+'Kalan devamsızlık hakkımı nerden bilcem', rsp22
+'Kalan devamsızlık hakkı öğrenme', rsp22
+'Kalan devamsızlık hakkımı öğrenebilir miyim', rsp22
+'Kalan devamsızlık hakkımı nerden öğrenicem', rsp22
+'Kalan devamsızlık hakkımı kimden öğrenicem', rsp22
+'Kalan devamsızlık hakkımı öğrenebilir miyim', rsp22
+'Ne kadar devamsızlık hakkım kaldı nereden öğrenebilirim', rsp22
+'Ne kadar devamsızlık hakkım kaldı kimden öğrenebilirim', rsp22
+'Ne kadar devamsızlık hakkım kaldı', rsp22
+'Ne kadar devamsızlık hakkım kaldı öğrenme', rsp22
+'Ne kadar devamsızlık hakkım kaldığını nereden öğrenebilirim', rsp22
+'Ne kadar devamsızlık hakkım var kimden öğrenebilirim', rsp22
+'Ne kadar devamsızlık hakkım var nerden öğrencem', rsp22
+'Dersten kaç gün devamsızlık hakkım kaldı nereden öğrenebilirim', rsp22
+'Dersten kaç gün devamsızlık hakkım kaldı öğrenme', rsp22
+'Dersten kaç gün devamsızlığım var öğrenme', rsp22
+'Dersten kaç gün devamsızlığım var öğrenebilir miyim', rsp22
+'Devamsızlık hakkım ne kadar kaldı nerden öğrenebilirim', rsp22
+'Devamsızlık hakkım ne kadar kaldı kimden öğrenebilirim', rsp22
+'Nerden öğrenicem kalan devamsızlık hakkımı', rsp22
+'Kalan devamsızlığımı öğrenmek istiyorum', rsp22
+'Ne kadar devamsızlığım kaldı öğrenmek istiyorum', rsp22
+'Dersten ne kadar devamsızlığım kaldı nereden öğrenicem', rsp22
+'Derslerdeki kalan devamsızlık haklarımı nereden öğrenicem', rsp22
+'Kalan devamsızlık günlerimi nereden öğrenebilirim', rsp22
+'Dersten kalan devamsızlık günlerimi nereden öğrenebilirim', rsp22
+'Ne kadar devamsızlık günüm kaldı nereden öğrenebilirim', rsp22
+'Derslerdeki kalan devamsızlık günlerimi nereden öğrenebilirim', rsp22
+'Bir dersten kaç gün devamsızlık yapabilirim' rsp23
+'Dersten kaç gün devamsızlık yapabilirim', rsp23
+'Bir dersten ne kadar devamsızlık yapabilirim', rsp23
+'Bir dersten ne kadar devamsızlık hakkım var', rsp23
+'Bir dersteki devamsızlık süresi', rsp23
+'Derslerdeki devamsızlık süresi', rsp23
+'Dersten Kaç gün devamsızlık hakkım var', rsp23
+'Ne kadar devamsızlık hakkım var', rsp23
+'Üniversitede bir dersten kaç gün devamsızlık hakkım var', rsp23
+'Üniversitede bir dersten kaç gün devamsızlık hakkım olabilir', rsp23
+'Üniversitede bir dersten kaç gün devamsızlık yapabilirim', rsp23
+'Üniversitede bir dersten kaç gün devamsızlık yapabilme olanağım var', rsp23
+'Üniversitede bir dersten kaç gün devamsızlık yapabilmem mümkün', rsp23
+'Üniversitede bir dersten ne kadar devamsızlık hakkım var', rsp23
+'Üniversitede bir dersten ne kadar devamsızlık hakkım olabilir', rsp23
+'Üniversitede bir dersten ne kadar devamsızlık yapabilirim', rsp23
+'Üniversitede bir dersten ne kadar devamsızlık yapabilme olanağım var', rsp23
+'Üniversitede bir dersten ne kadar devamsızlık yapabilmem mümkün', rsp23
+'Üniversitede bir dersteki devamsızlık süresi', rsp23
+'Üniversitede bir dersteki devamsızlık süresi ne kadar', rsp23
+'Üniversitede bir dersten kaç devamsızlık hakkım var', rsp23
+'Üniversitede bir dersten kaç devamsızlık hakkına sahibim', rsp23
+'Üniversitede bir dersten kaç devamsızlık hakkım olabilir', rsp23
+'Bölümde bir dersten kaç gün devamsızlık hakkım var', rsp23
+'Bölümde bir dersten kaç gün devamsızlık hakkım olabilir', rsp23
+'Bölümde bir dersten kaç gün devamsızlık yapabilirim', rsp23
+'Bölümde bir dersten kaç gün devamsızlık yapabilme olanağım var', rsp23
+'Bölümde bir dersten kaç gün devamsızlık yapabilmem mümkün', rsp23
+'Bölümde bir dersten ne kadar devamsızlık hakkım var', rsp23
+'Bölümde bir dersten ne kadar devamsızlık hakkım olabilir', rsp23
+'Bölümde bir dersten ne kadar devamsızlık yapabilirim', rsp23
+'Bölümde bir dersten ne kadar devamsızlık yapabilme olanağım var', rsp23
+'Bölümde bir dersten ne kadar devamsızlık yapabilmem mümkün', rsp23
+'Bölümde bir dersteki devamsızlık süresi', rsp23
+'Bölümde bir dersteki devamsızlık süresi ne kadar', rsp23
+'Bölümde bir dersten kaç devamsızlık hakkım var', rsp23
+'Bölümde bir dersten kaç devamsızlık hakkına sahibim', rsp23
+'Bölümde bir dersten kaç devamsızlık hakkım olabilir', rsp23
+'Derste kaç gün devamsızlık yapabilirim', rsp23
+'Derste kaç gün devamsızlık hakkım var', rsp23
+'Derste kaç gün devamsızlık hakkım olabilir', rsp23
+'Derste kaç gün devamsızlık yapabilirim', rsp23
+'Derste kaç gün devamsızlık yapabilme olanağım var', rsp23
+'Derste kaç gün devamsızlık yapabilmem mümkün', rsp23
+'Derste ne kadar devamsızlık hakkım var', rsp23
+'Derste ne kadar devamsızlık hakkım olabilir', rsp23
+'Derste ne kadar devamsızlık yapabilirim', rsp23
+'Derste ne kadar devamsızlık yapabilme olanağım var', rsp23
+'Derste ne kadar devamsızlık yapabilmem mümkün', rsp23
+'Derste devamsızlık süresi', rsp23
+'Derste devamsızlık süresi ne kadar', rsp23
+'Derste kaç devamsızlık hakkım var', rsp23
+'Derste kaç devamsızlık hakkına sahibim', rsp23
+'Derste kaç devamsızlık hakkım olabilir', rsp23
+'Devamsızlıktan kaldığımı nereden öğrenebilirim', rsp24
+'Devamsızlıktan kaldığımı nasıl öğrenebilirim', rsp24
+'Devamsızlıktan kaldığımı kimden öğrenebilirim', rsp24
+'Dersten devamsızlıktan kaldığımı nerden öğrenebilirim', rsp24
+'Dersten devamsızlıktan kaldığımı nasıl öğrenebilirim', rsp24
+'Dersten devamsızlıktan kaldığımı kimden öğrenebilirim', rsp24
+'Raporlarım devamsızlıkta geçerli olur mu', rsp25
+'Raporlar devamsızlıkta geçerli mi', rsp25
+'Raporlar devamsızlık için kullanılabilinir mi', rsp25
+'Raporlar devamsızlıkta işe yarar mı', rsp25
+'Raporlar devamsızlıkları siler mi', rsp25
+'Raporların devamsızlıklara etkisi var mı', rsp25
+'Raporum var devamsızlığım silinir mi', rsp25
+'Gitmediğim derse rapor versem raporlu sayılır mı', rsp25
+'Raporum var derse gitmesem raporlu sayılır mıyım', rsp25
+'Aldığım rapor devamsızlıkta geçerli mi', rsp25
+'Aldığım rapor devamsızlığı etkiler mi', rsp25
+'Rapor devamsızlıkta etkili mi', rsp25
+'Raporum var vizeye girebilir miyim', rsp26
+'Raporum var vizeye girmem mümkün mü', rsp26
+'Raporum var vize sınavına girebilir miyim', rsp26
+'Raporum var vize sınavına girmem mümkün mü', rsp26
+'Raporla vizeye girebilir miyim', rsp26
+'Raporla vizeye girmem mümkün mü', rsp26
+'Raporla vize sınavına girebilir miyim', rsp26
+'Raporla vize sınavına girmem mümkün mü', rsp26
+'Raporumla vizeye girebilir miyim', rsp26
+'Raporumla vizeye girmem mümkün mü', rsp26
+'Raporumla vize sınavına girebilir miyim', rsp26
+'Raporumla vize sınavına girmem mümkün mü', rsp26
+'Vizeye giremedim raporla girebilir miyim', rsp26
+'Vizeye giremedim raporla girmem mümkün mü', rsp26
+'Vize sınavına giremedim raporla girebilir miyim', rsp26
+'Vize sınavına girmedim raporla girmem mümkün mü', rsp26
+'Vize sınavına raporla girebilir miyim', rsp26
+'Vize sınavına raporla girmem mümkün mü', rsp26
+'Vize sınavına raporla girebilir miyim', rsp26
+'Vize sınavına raporla girmem mümkün mü', rsp26
+'Vizelerde rapor geçerli mi', rsp26
+'Vize sınavlarında rapor geçerli mi', rsp26
+'Vizede rapor geçerli mi', rsp26
+'Vizelere raporla girmem mümkün mü', rsp26
+'Vize sınavlarına raporla girmem mümkün mü', rsp26
+'Vizeye raporla girmem mümkün mü', rsp26
+'Vizelere raporla girebilir miyim', rsp26
+'Vize sınavlarına raporla girebilir miyim', rsp26
+'Vizeye raporla girebilir miyim', rsp26
+'Vizeleri kaçırdım raporla girebilir miyim', rsp26
+'Vizeleri kaçırdım raporum geçerli olur mu', rsp26
+'Vize sınavını kaçırdım raporla girebilir miyim', rsp26
+'Vize sınavını kaçırdım raporum geçerli olur mu', rsp26
+'Hastaydım vize sınavına giremedim rapor alsam girebilir miyim', rsp26
+'Hastaydım vize sınavına giremedim rapor alsam girebilir miyim', rsp26
+'Hastaydım vizelere giremedim raporum geçerli olur mu', rsp26
+'Hastaydım vizelere giremedim rapor alsam girebilir miyim', rsp26
+'Rapor vize sınavı için geçerli mi', rsp26
+'Rapor vizeler için geçerli mi', rsp26
+'Vizelere raporla girmek mümkün mü', rsp26
+'Vize sınavlarına raporla girmek mümkün mü', rsp26
+'Raporum var finale girebilir miyim', rsp27
+'Raporum var finale girmem mümkün mü', rsp27
+'Raporum var final sınavına girebilir miyim', rsp27
+'Raporum var final sınavına girmem mümkün mü', rsp27
+'Raporla finale girebilir miyim', rsp27
+'Raporla finale girmem mümkün mü', rsp27
+'Raporla final sınavına girebilir miyim', rsp27
+'Raporla final sınavına girmem mümkün mü', rsp27
+'Raporumla finale girebilir miyim', rsp27
+'Raporumla finale girmem mümkün mü', rsp27
+'Raporumla final sınavına girebilir miyim', rsp27
+'Raporumla final sınavına girmem mümkün mü', rsp27
+'Finale giremedim raporla girebilir miyim', rsp27
+'Finale giremedim raporla girmem mümkün mü', rsp27
+'Final sınavına giremedim raporla girebilir miyim', rsp27
+'Final sınavına girmedim raporla girmem mümkün mü', rsp27
+'Final sınavına raporla girebilir miyim', rsp27
+'Final sınavına raporla girmem mümkün mü', rsp27
+'Final sınavına raporla girebilir miyim', rsp27
+'Final sınavına raporla girmem mümkün mü', rsp27
+'Finallerde rapor geçerli mi', rsp27
+'Final sınavlarında rapor geçerli mi', rsp27
+'Finalde rapor geçerli mi', rsp27
+'Finale raporla girmem mümkün mü', rsp27
+'Final sınavlarına raporla girmem mümkün mü', rsp27
+'Finale raporla girmem mümkün mü', rsp27
+'Finallere raporla girebilir miyim', rsp27
+'Final sınavlarına raporla girebilir miyim', rsp27
+'Finale raporla girebilir miyim', rsp27
+'Finalleri kaçırdım raporla girebilir miyim', rsp27
+'Finalleri kaçırdım raporum geçerli olur mu', rsp27
+'Final sınavını kaçırdım raporla girebilir miyim', rsp27
+'Final sınavını kaçırdım raporum geçerli olur mu', rsp27
+'Hastaydım final sınavına giremedim rapor alsam girebilir miyim', rsp27
+'Hastaydım final sınavına giremedim rapor alsam girebilir miyim', rsp27
+'Hastaydım finallere giremedim raporum geçerli olur mu', rsp27
+'Hastaydım finallere giremedim rapor alsam girebilir miyim', rsp27
+'Rapor final sınavı için geçerli mi', rsp27
+'Rapor finaller için geçerli mi', rsp27
+'Finallere raporla girmek mümkün mü', rsp27
+'Final sınavlarına raporla girmek mümkün mü', rsp27
+'Sınav itirazını nasıl yapabilirim', rsp28
+'Sınava itiraz nasıl edebilirim', rsp28
+'Sınava itiraz edicem nasıl yapabilirim', rsp28
+'Sınava itiraz etmek istiyorum nasıl yapabilirim', rsp28
+'Sınava itiraz hakkımı nasıl kullanabilirim', rsp28
+'Sınav itiraz dilekçesini nereye teslim edebilirim', rsp28
+'Sınava itiraz etmek için ne yapabilirim', rsp28
+'Sınav itirazını neyle yapacağım', rsp28
+'Sınav itirazını neyle ve nereye yapacağım', rsp28
+'Sınava nasıl itiraz edebilirim', rsp28
+'Sınava neyle itiraz edebilirim', rsp28
+'Sınav itirazı için yazdığım dilekçeyi nereye teslim etmeliyim', rsp28
+'Sınava nasıl itiraz edilir', rsp28
+'Sınav için itiraz hakkımı nasıl kullanabilirim', rsp28
+'Sınava itiraz etmek için ne yapmam gerekiyor', rsp28
+'Sınava itiraz etmek için hangi yolu kullanmalıyım', rsp28
+'Sınava itiraz etmek için hangi yolları denemeliyim', rsp28
+'Vize sınavına itiraz etmek istiyorum', rsp28
+'Vize sınavına nasıl itiraz edilir', rsp28
+'Vize sınavı için itiraz hakkımı kullanmak istiyorum', rsp28
+'Vize sınavlarına nasıl itiraz edebilirim', rsp28
+'Vize sınavlarına nasıl itiraz etmek istiyorum', rsp28
+'Final sınavına itiraz etmek istiyorum', rsp28
+'Final sınavına nasıl itiraz edilir', rsp28
+'Final sınavı için itiraz hakkımı kullanmak istiyorum', rsp28
+'Final sınavlarına nasıl itiraz edebilirim', rsp28
+'Final sınavlarına nasıl itiraz etmek istiyorum', rsp28
+'Finale girmeden büte girebilir miyim', rsp29
+'Finale girmedim büte girmem mümkün mü', rsp29
+'Finalsiz büte girebilir miyim', rsp29
+'Finallere girmeden büt sınavlarına girebilir miyim', rsp29
+'Final sınavlarına girmeden bütlere girebilir miyim', rsp29
+'Finallere girmeden bütlere girebilir miyim', rsp29
+'Final sınavlarına girmeden büt sınavlarına girebilir miyim', rsp29
+'Finallere girmeden büt sınavlarına girebilirmek mümkün mü', rsp29
+'Final sınavlarına girmeden bütlere girebilirmek mümkün mü', rsp29
+'Finallere girmeden bütlere girebilirmek mümkün mü', rsp29
+'Final sınavlarına girmeden büt sınavlarına girebilirmek mümkün mü', rsp29
+'Final sınavına girmedim büt sınavına girmem mümkün mü', rsp29
+'Finallere girmedim bütlere girmem mümkün mü', rsp29
+'diplomam yurtdışında geçerli midir',rsp44
+'mezun olurken aldığım diploma türkiye dışında da geçerli olur mu',rsp44
+'aldığım diploma yurtdışında sayılır mı',rsp44
+'bu okuldan aldığım diploma yurtdışında geçerli mi',rsp44
+'diplomam ülke dışında da geçerli olacak mı',rsp44
+'aldığım diplomanın ülke dışında geçmesi mümkün mü',rsp44
+'yurtdışında buradaki diplomamı kullanabilir miyim',rsp44
+'aldığım diplomayı türkiye dışında da kullanabilmem mümkün mü',rsp44
+'trakya üniversitesi diploması yurtdışında kullanılabilir mi',rsp44
+'diplomamı yurtdışında kullanmak istiyorum geçerli midir',rsp44
+'türkiye dışında bir ülkede aynı diplomayı kullanabiliyor muyum',rsp44
+'buradaki diplomam yurtdışında da geçiyor mu',rsp44
+'diplomamı aldım yurtdışında iş bulmak için buradaki diplomam geçerli olur mu',rsp44
+'türkiye dışında iş ararken de buradaki diplomayı kullanabiliyor muyum',rsp44
+'buradan mezun olup aldığım diploma türkiye dışında iş bulmaya yarar mı',rsp44
+'yurtdışında iş ararken diplomamı kullanabilir miyim',rsp44
+'diplomam başka ülkelerde kullanılabilir mi',rsp44
+'buradaki diplomamla başka ülkelerde iş bulabilir miyim',rsp44
+'diplomayı yurtdışında iş ararken de kullanmam mümkün mü',rsp44
+'diplomam diğer ülkelerde de geçerli sayılır mı',rsp44
+'diplomamı diğer ülkelerde iş ararken de buradaki gibi kullanabilir miyim',rsp44
+'başka bir ülkede iş bulmak için diplomamı kullanabilirim değil mi ',rsp44
+'diplomam başka ülkede geçerli sayılır mı',rsp44
+'başka bir ülkede de aynı diploma geçerli olacak mı',rsp44
+'buradaki diplomamla türkiye dışında iş bulabilir miyim',rsp44
+'mezun olduktan sonra diplomam türkiye dışında sayılacak mı',rsp44
+'buradaki diplomamla yurtdışında da üniversite mezunu görünür müyüm',rsp44
+'diplomamın yurtdışında da geçerliliği var mı',rsp44
+'burdan mezun olduğum diploma başka ülkede de geçerli midir',rsp44
+'trakya üniversitesi diplomam avrupada geçerli olur mu',rsp44
+'buradaki diplomam amerikada iş bulmama yarar mı',rsp44
+'bu okuldan mezuniyetim yurtdışında da sayılıyor mu',rsp44
+'almanyada iş ararken diplomamı kullanabilir miyim',rsp44
+'italyada çalışmak için iş başvurumda diplomamı kullanabiliyor muyum',rsp44
+'bu diplomayla avrupada iş bulabilir miyim',rsp44
+'yurtdışında diploma geçerliliği',rsp44
+'diplomanın üstünde fotoğrafım var mı',rsp45
+'diplomanın üzerine vesikalık koymam gerekir mi',rsp45
+'diploma için okula vesikalık fotoğraf getiriliyor mu',rsp45
+'diplomamın üstünde fotoğrafım olacak mı',rsp45
+'vesikalık fotoğrafım diploma üzerinde olmasa da olur mu',rsp45
+'diplomada fotoğraf olur mu ',rsp45
+'diploma üzerine fotoğraf olmalı mı',rsp45
+'diplomada vesikalık olmak zorunda mı',rsp45
+'diplomada vesikalık fotoğrafım olmalı mı ',rsp45
+'okula diploma için fotoğraf getirecek miyim',rsp45
+'diplomamın üzerine vesikalık fotoğrafım konacak mı',rsp45
+'diplomaya vesikalık fotoğrafımı koymam mı gerekiyor',rsp45
+'diplomaya konması için okula vesikalık fotoğraf getirecek miyim',rsp45
+'okulum diplomama benim vesikalık fotoğrafımı koyuyor mu',rsp45
+'diplomaya vesikalık fotoğrafım ekleniyor mu',rsp45
+'diplomanın üzerinde vesikalığım olacak mı ',rsp45
+'okul diplomamın üstüne vesikalık eklememi istiyor mu',rsp45
+'mezun olanların diplomasının üstünde kendi fotoğrafı olur mu',rsp45
+'kendi vesikalığımı diplomamın üstüne ekleyecek miyim',rsp45
+'diplomamızın üstüne vesikalık fotoğraf eklemek zorunda mıyız',rsp45
+'diplomada diploma sahibinin vesikalık fotoğrafı olur mu',rsp45
+'diplomaya vesikalık fotoğraf yapıştırılıyor mu',rsp45
+'öğrencilerin diplomalarında fotoğrafları olur mu',rsp45
+'kızımın diplomasında kendi fotoğrafı da olacak mı',rsp45
+'oğlumun diplomasında kendi fotoğrafı da olacak mı',rsp45
+'oğlum mezun oluyor diplomasının üzerine vesikalık koyacak mı',rsp45
+'kızım mezun oluyor diplomasının üzerine vesikalık koyacak mı',rsp45
+'diploma üzerindeki fotoğraf boyutu nedir',rsp45
+'diplomadaki vesikalık hangi boyutta olmalı',rsp45
+'diplomada öğrencinin fotoğrafı görülüyor mu',rsp45
+'oğlumun diplomasında fotoğrafını görecek miyim',rsp45
+'kızımın diplomasında fotoğrafını görecek miyim',rsp45
+'diplomamı yakınlarımdan birinin alması için ne yapmam gerekir',rsp46
+'ailem diplomamı alabilir mi',rsp46
+'diplomamı okuldan ailemin alması için ne yapmalıyım',rsp46
+'diplomamı benim yerime birisi alsın diye ne yapmam gerek',rsp46
+'yakınlarımdan bir kişi diplomamı okuldan benim yerime teslim alabilir mi',rsp46
+'benim dışımda biri diplomamı alabilir mi',rsp46
+'diplomamı başka birine aldırabilir miyim',rsp46
+'diplomamı benim yerime bir arkadaşım alabilir mi',rsp46
+'diplomamı okuldan kendim alamayacağım benim yerime başkası alsa olur mu',rsp46
+'diplomamı benim yerime alınabilmesi mümkün mü',rsp46
+'diplomamı şahsen almasam da olur mu',rsp46
+'diploma almak için kendim okula gelemeyeceksem bir tanıdığıma aldırabiliyor muyum',rsp46
+'diplomamı şahsen alamayacağım bir yakınıma aldırsam olur mu',rsp46
+'diplomamımı kendim alamazsam başkasına aldırabilir miyim',rsp46
+'annem babam ya da kardeşim diplomamı alabilir mi',rsp46
+'bir arkadaşım okuldan benim diplomamı alabilir mi',rsp46
+'diplomamı başkası alsın diye vekalet verebilir miyim',rsp46
+'diplomayı okuldan benim yerime bir akrabam alsa olur mu',rsp46
+'diplomamı kendim alamayacağım başka biri alabilir mi ',rsp46
+'diplomamı annem alsa olur mu',rsp46
+'ben edirne\'ye gelemem kardeşimi yollasam diplomamı o alabilir mi',rsp46
+'diplomamı kendim teslim alamayacağım geçerli sebeplerim var diplomamı babama aldırabilir miyim',rsp46
+'arkadaşımın diplomasını ben teslim alabilir miyim',rsp46
+'buradan mezun birinin diplomasını okuldan onun yerine almam lazım nasıl alabilirim',rsp46
+'okul oğlumun diplomasını bana verir mi',rsp46
+'kızımın diplomasını almam gerek okula gidip annesi olduğumu söylesem diplomayı bana verirler mi',rsp46
+'arkadaşımın diploması okulda kaldı kendisi gelemiyor öğrenci işlerine ben gitsem alabilir miyim',rsp46
+'kardeşim rahatsız diplomasını okuldan benim almam lazım bunun için kiminle görüşmeliyim',rsp46
+'sınıf arkadaşım diplomasını bana aldırabilir mi',rsp46
+'sınıf arkadaşımın diplomasını almak istiyorum desem okul diplomayı bana verir mi',rsp46
+'diplomayı başkasına aldırmak',rsp46
+'başka biri aracılığıyla diploma okuldan sadece vekaletle mi aldırılır',rsp46
+'diplomasını almak için o kişiden vekalet mi almalıyım',rsp46
+'geçerli sebeplerle diplomamı kendim alamıyorum başka birine aldırmam gerek',rsp46
+'ailemden birinin diplomamı alması için ona vekalet mi vermem gerek',rsp46
+'noter vekaletiyle arkadaşıma diplomamı aldırabilir miyim',rsp46
+'diplomam bir yakınım tarafından okuldan alınabilir mi',rsp46
+'vefat eden öğrencinin diploması okuldan nasıl alınır',rsp46
+'ölen bir öğrencinin yakınıyım diplomasını okuldan alabilir miyim',rsp46
+'oğlum vefat etti diplomasını okul bana verir mi',rsp46
+'diplomamı posta yoluyla okuldan alabilir miyim',rsp46
+'kargo ile diplomamı okuldan alabilir miyim',rsp46
+'yurtdışında olduğum için diplomamı alamayacağım ne yapmam gerekir',rsp46
+'sadece stajım kaldı harç öder miyim',rsp47
+'mezun olmak için stajım kaldı okula harç ödeyecek miyim',rsp47
+'ders eksiğim yok ama mezun olmak için stajımı yapmam gerekiyor bu durumda okula harç ödemeli miyim',rsp47
+'mezun olmak için sadece stajım var bu durumda okula harç ödemem gerekiyor mu',rsp47
+'sadece bir stajım kaldı okula ne kadar harç öderim',rsp47
+'derslerimi verdim ama stajlarımı yapmadım okula harç ödeyerek mi devam edeceğim',rsp47
+'mezun olmak için stajım eksik tamamlayana kadar okula harç mı ödeyeceğim',rsp47
+'dersim yok ama eksik stajlarımı tamamlayana kadar harç mı ödemem gerekiyor',rsp47
+'tüm derslerimi verdim ama stajım olduğu için mezun olamadım ne kadar harç öderim',rsp47
+'derslerimi verdim ama stajım eksik okula ne kadar harç ödemem lazım',rsp47
+'tüm dönem bitti ama stajımı daha yapmadım stajı verene kadar dönem bittiği için okula ödeme mi yapmam lazım',rsp47
+'okulum bitti kalan stajımı yapana kadar okula para ödüyor muyum',rsp47
+'dersleri verip stajları bırakanlar da ders alanlar gibi harç mı ödüyor',rsp47
+'sadece stajı olup dersi olmayan da okula ödeme yapıyor mu',rsp47
+'stajımı okul sonunda yaparken okula harç ödemem gerekecek mi',rsp47
+'stajımı okulumu bitirip yapmak istiyorum okula herhangi bir şey ödemem gerekir mi',rsp47
+'stajım okul sonuna kaldı şimdi stajı verene kadar okula harç ödemesi yapmam mı gerekecek',rsp47
+'dersim yok stajım var harç ödenir mi',rsp47
+'okul bitimine kalan staj için okula ne kadar harç ödemem lazım',rsp47
+'stajım var ama derslerimin hepsini verdim bu durumda harcım kaç tl olur',rsp47
+'okulu bitirip stajlarını yapanlar okula kaç tl verir',rsp47
+'4. sınıf sonunda staj yapacağım okula ödeme yapmak mı gerekiyor',rsp47
+'dördüncü sınıf sonunda staj yapacağım okula ödeme yapmak mı gerekiyor',rsp47
+'stajım yüzünden mezuniyet gecikmiş oldu okul benden harç ister mi',rsp47
+'son sınıfın yazına staj bıraktım okulu uzatmış gibi harç ödemesi mi yapmalıyım',rsp47
+'bölüm için hazırlık sınıfı var mı',rsp48
+'bilgisayar mühendisliğinde ingilizce hazırlık oluyor mu ',rsp48
+'bilgisayar mühendisliği birinci sınıftan önce hazırlık okuyacak mıyız',rsp48
+'bilgisayar mühendisliğinde hazırlık sınıfı oluyor mu',rsp48
+'bilgisayar mühendisliği bölümünde hazırlık okumak gerekiyor mu',rsp48
+'bilgisayarda hazırlık okumadan birinci sınıfa geçiliyor mu',rsp48
+'bilgisayarda hazırlıksız birinci sınıfa geçiliyor mu',rsp48
+'bilgisayar mühendisliğinde ingilizce hazırlık okumak zorunlu mu',rsp48
+'bu bölümde direkt ilk sınıf mı okunuyor yoksa önce hazırlık mı',rsp48
+'ilk sene hazırlık mı var',rsp48
+'hazırlık okumak zorunlu mu ',rsp48
+'hazırlık okumadan da birinci sınıfa geçebilir miyim',rsp48
+'ingilizce hazırlık olacak mı',rsp48
+'üniversiteye başladığım sene hazırlık okuyacak mıyım',rsp48
+'ilk sene ingilizce okunuyor mu',rsp48
+'bölüm 5 sene mi 1 sene hazırlık mı okunuyor',rsp48
+'ingilizce hazırlıktan muaf olunabilir mi',rsp48
+'hazırlığı sınavla geçebiliyor muyuz',rsp48
+'ingilizce hazırlık okumak zorunlu mu',rsp48
+'bilgisayar mühendisliği hazırlık eğitimi nasıl',rsp48
+'bilgisayar mühendisliği ingilizce hazırlıktan muaf olunabilir mi',rsp48
+'ingilizce hazırlık yarım dönem okunsa olur mu',rsp48
+'bilgisayar mühendisliği 5 yıl mı',rsp48
+'bilgisayar mühendisliği ingilizce hazırlıktan kalsam ne olur',rsp48
+'ingilizce hazırlık muafiyet sınavı ne zaman',rsp48
+'hazırlık sınavında geçme notu nedir',rsp48
+'ingilizce hazırlık eğitimi nasıl',rsp48
+'hazırlıkta ders saatleri nasıl',rsp48
+'hazırlık okumak ne kadar sürüyor',rsp48
+'ingilizce hazırlıkta haftanın her günü ders var mı',rsp48
+'ingilizce hazırlıkta günde kaç saat ders olacak',rsp48
+'isteğe bağlı hazırlık hangi bölümlerde var',rsp49
+'hazırlık okumak hangi bölümlerde isteğe bağlı',rsp49
+'hangi bölümlerde hazırlık okunabiliyor',rsp49
+'mühendislikte hangi bölümlerde hazırlık var',rsp49
+'mühendislik fakültesinde isteğe bağlı hazırlık var mı',rsp49
+'istersem hazırlık okuyabilir miyim',rsp49
+'hazırlık okumak istiyorum',rsp49
+'hazırlık sınıfı olan bölümler neler',rsp49
+'gıda mühendisliğinde hazırlık var mı',rsp49
+'makine mühendisliğinde hazırlık var mı',rsp49
+'genetik ve biyomühendislikte hazırlık var mı',rsp49
+'mühendislik fakültesinde ingilizce hazırlık okumak zorunlu mu',rsp49
+'elektrik elektronik mühendisliğinde hazırlık var mı',rsp49
+'gıdada hazırlık okunuyor mu',rsp49
+'makinede hazırlık okunuyor mu',rsp49
+'genetikte hazırlık okunuyor mu',rsp49
+'elektrikte hazırlık okunuyor mu',rsp49
+'erasmus için genel ortalama kaç',rsp50
+'erasmus plus için genel ortalama kaç',rsp50
+'erasmus yapmak istiyorum ortalamam kaç olmalı',rsp50
+'erasmus yapabilmek için gano kaç olması gerek',rsp50
+'erasmus yapmak için belirlenen genel ortalama sınırı nedir',rsp50
+'genel ortalamam minimum kaç olursa erasmus yapmaya hak kazanırım',rsp50
+'erasmus için ortalamam kaç olmalı',rsp50
+'erasmus yapmak için not ortalaması sınırı nedir',rsp50
+'erasmus plus için not ortalaması',rsp50
+'erasmus+ için kaç ortalamam olması lazım',rsp50
+'erasmus stajı yapmak için not sınırı nedir',rsp50
+'güz dönemini yurtdışında erasmusla okumak istiyorum beklenen minimum not ortalaması nedir',rsp50
+'bahar dönemini yurtdıında erasmusla okumak için ganom kaç olmalı',rsp50
+'stajımı erasmusla yurtduşında yapacağım yapmam gereken not ortalaması nedir ',rsp50
+'öğrenci değişimi programı erasmus için minimum genel ortalama ne olmalı',rsp50
+'yüksek lisans öğrencisi kaç ortalamayla erasmus yapabiliyor',rsp50
+'lisans öğrencisi kaç ortalamayla erasmus yapabiliyor',rsp50
+'yüksek lisanslılara erasmus için minimum genel ortalama kaç',rsp50
+'birinci sınıftayım not ortalamam erasmus için kaç olmalı',rsp50
+'ikinci sınıfta erasmus yapmak için not ortalamamı minimum kaçta tutmam gerek',rsp50
+'üçüncü sınıfta erasmus yapmak için genel ortalama sınırı nedir',rsp50
+'yazın erasmus stajı yapacağım ortalamam kaç olmalı',rsp50
+'erasmus başvuruları nereden yapılır',rsp51
+'diğer dönem erasmus yapmak istiyorum nerden başvurmam gerek',rsp51
+'erasmus yapmak için nereye başvurmalıyım',rsp51
+'erasmus için yapılan başvuruları hangi birim alıyor',rsp51
+'öğrenci erasmusa nereden başvurabilir',rsp51
+'sonraki sene erasmusa başvuracağım önce hangi ofise gitmem lazım',rsp51
+'erasmusa başvurmak için kimle görüşebilirim',rsp51
+'güz döneminde erasmus yapmak için nereye başvurulur',rsp51
+'bahar döneminde erasmus yapmak için nereye başvurulur',rsp51
+'bu dönem yurtdışında okumak istiyorum',rsp51
+'güz döneminde yurtdışında okumak için nereye başvurulur',rsp51
+'bahar döneminde yurtdışında okumak için nereye başvurulur',rsp51
+'öğrenci değişimi programıyla ilgili bilgilendirmeyi hangi birim yapar',rsp51
+'erasmus için dış ilişkiler birimiyle görüşebilir miyim',rsp51
+'erasmus ile ilgili görüşmeyi dış ilişkilerle mi yapacağım',rsp51
+'erasmusla ilgili sorularım var',rsp51
+'erasmus+ yapmak istiyorum beni hangi birim bilgilendirir',rsp51
+'erasmusla ilgili sorularımı öğrenci işlerine mi sormalıyım',rsp51
+'yurtdışında öğrenci olmak için yapmam gerekenleri nerden öğreneceğim',rsp51
+'erasmus başvurusu için gereken belgeleri nereye vereceğim',rsp51
+'erasmus başvuru formunu nereden temin ederim',rsp51
+'erasmus başvuru belgelerini kime sorabilirim',rsp51
+'mezuniyet işlemleri neler',rsp52
+'mezun olmak için ne yapılır',rsp52
+'mezun olacağım ne yapmam gerekiyor',rsp52
+'mezun olmam için gereken işlemler neler',rsp52
+'senem bitti mezuniyet için ne yapmam lazım',rsp52
+'mezuniyet işlemleri nasıl ilerler',rsp52
+'mezuniyet için ne yapılır',rsp52
+'çocuğum mezun olacak ne yapmamız gerekiyor',rsp52
+'okul bitmeye yakın yapmamız gerekenler neler',rsp52
+'mezuniyet işlemleri için gereken belgeler neler',rsp52
+'okul bitti ne yapmam gerek',rsp52
+'okuldan ilişki nasıl kesilir',rsp53
+'mezun olduktan sonra okuldan ilişkimi kesmek için ne yapmalıyım',rsp53
+'mezun oldum okuldan ilişkimi kesmek için ne yapacağım',rsp53
+'okuldan ayrılmak için gerekli işlemler neler',rsp53
+'oğlum okuldan ayrılıyor ilişiğini nasıl keser',rsp53
+'kızımın okuldan ilişkisini kesmesi için hangi işlemleri yapacağız',rsp53
+'diplomam ne zaman hazır olur',rsp54
+'mezun oldum ne zaman diplomamı alabilirim',rsp54
+'mezun olduktan sonra okuldan diplomamı almak için ne kadar beklemeliyim',rsp54
+'diplomamın hazır olması ne kadar sürer',rsp54
+'diplomamı mezun olduktan 1 ay sonra alabilir miyim',rsp54
+'diplomamı almak için ne kadar beklerim',rsp54
+'okul diplomayı ne zaman verir',rsp54
+'geçici mezuniyet belgem var diplomamı ne zaman alırım',rsp54
+'diplomamı almam için ne yapmam gerekiyor',rsp55
+'geçiçi mezuniyet belgem var diplomamı nasıl alacağım',rsp55
+'mezuniyet belgesi verildi diplomamı almak için ne yapmam gerek',rsp55
+'diplomamı almam gerekiyor ne yapacağım',rsp55
+'okuldan diplomamı almak istiyorum ne yapmam lazım',rsp55
+'diplomamı okuldan nasıl teslim alabilirim',rsp55
+'okuldan diplomaları teslim almak için neler yapmamız gerekiyor',rsp55
+'diploma işlemleri',rsp55
+'oğlum mezun oldu diplomasını okuldan nasıl alacak',rsp55
+'mezun oldum üniversite diplomasımı okuldan nasıl alacağım',rsp55
+'kızımın geçici mezuniyet belgesi var artık diplomasını alması lazım',rsp55
+'mezuniyet belgemi verip diplomamı alabiliyor muyum',rsp55
+'diplomamı kaybettim ne yapmam gerekiyor',rsp56
+'diplomam kayboldu ne yapacağım',rsp56
+'şu an diplomam kayıp nereye başvurmalıyım',rsp56
+'diplomam kayıpsa yapmam gereken işlemler ne',rsp56
+'diplomama ulaşamıyorum galiba kayboldu nereye başvurmam lazım',rsp56
+'diplomamı kaybetmiş olabilirim ne yapacağım',rsp56
+'diplomasını kaybeden öğrenciler hangi işlemleri yapmak zorundadır',rsp56
+'arkadaşım diplomasını kaybetti bununla kim ilgilenir',rsp56
+'diplomamızı kaybedersek ne yaparız',rsp56
+'kayıp diploma',rsp56
+'oğlumun diploması kayıp okula mı bildirmesi gerek',rsp56
+'kızımın diploması kayboldu nereye bildirecek',rsp56
+'oğlumun diploması kayboldu nereye bildirecek',rsp56
+'diplomamı bulamıyorum bununla hangi birim ilgilenir',rsp56
+'kayıp diploma için dekanlığa mı başvurulur',rsp56
+'diplomam kayıp hangi gazeteye ilan vermeliyim',rsp56
+'dekanlığa diplomam kayıp bildirimini nasıl yapacağım',rsp56
+'oğlum diplomasını bulamıyor',rsp56
+'öğrencinin diplomasının kayıp olması halinde nereye başvuru yapılır',rsp56
+'diplomam kaybolunca gazeteye ilan mı vermem gerekiyor',rsp56
+'kayıp diploma için gazeteye ilan vermek yeter mi',rsp56
+'diplomam kayboldu öğrenci işleri ilgilenir mi',rsp56
+'kaybolan diplomayı rektörlüğe mi bildirmek gerekir',rsp56
+'dönem içinde devam zorunluluğum yoksa staj yapabilir miyim',rsp57
+'dönem içinde staj yapılabiliyor mu',rsp57
+'stajımı okul zamanı yapsam olur mu',rsp57
+'bu dönem dersim yok dönem içinde staj yapsam geçerli sayılır mı',rsp57
+'devam zorunluluğum olmayan dönemde staj yapabilir miyim',rsp57
+'dönem içinde bir staj yapılabilir mi',rsp57
+'stajlarımdan birini bu dönem yapsam olur mu',rsp57
+'güz dönemi içinde staj yapabilir miyim',rsp57
+'stajlarımdan birini güz döneminde yapabilir miyim',rsp57
+'yazın dışında da staj yapılabilir mi',rsp57
+'yazın staj yapmak istemiyorum dönem içinde yapsam olur mu',rsp57
+'yaz dışında staj dönemleri var mıdır',rsp57
+'yaz stajı yapmasam okul dönemi içinde staj yapsam olur mu',rsp57
+'okul döneminde staj yapmak için devam zorunluluğu mu önemli',rsp57
+'stajımı okul dönemi içinde yapmam için ne gerekir',rsp57
+'okul döneminde staj oluyor mu',rsp57
+'dönem içinde staj yapmak istiyorum kabul olur mu',rsp57
+'dönem içinde staj yapsam geçerli olur mu',rsp57
+'devam zorunluluğum olmayan okul döneminde staj yapmam mümkün mü',rsp57
+'okul döneminde devam zorunluluğum yoksa staj yapabiliyor muyum',rsp57
+'bu dönemde dersim yok stajı dönem içi yapabiliyor muyuz',rsp57
+'bu dönem alttan derslerim var derslere devam zorunluluğum yoksa stajımı dönem içinde yapabilir miyim',rsp57
+'alttan derslerim var ama okula gitmeme gerek yok güz döneminde staj yapsam sayılır mı',rsp57
+'sadece bir dersim var bu dönemde staj yapsam olur mu',rsp57
+'dersi olanlar dönem içinde 20 gün staj da yapabilir mi',rsp57
+'dersim var ama yazın vaktim yok stajımı okul zamanı yapsam kabul oluyor mu',rsp57
+'yazın vakti olmayan öğrenciler güz döneminde ya da bahar döneminde staj yapabilir mi',rsp57
+
+'Mezuniyet için toplam kaç akts ders almam gerekiyor',rsp58
+'Mezun olabilmem için kaç akts değerinde ders tamamlamam gerek',rsp58
+'Mezuniyet için tamamlanması gereken akts sayısı kaçtır',rsp58
+'Okulu uzatmadan bitirebilmem için kaç akts ders vermeliyim',rsp58
+'Mezun olmak için kaç akts ders verme şartı var',rsp58
+'Mezun olmak isteyen öğrenciler kaç akts ders vermelidir',rsp58
+'Verilmesi gereken akts sayısı',rsp58
+'Mezuniyet için toplam kredi sayısı',rsp58
+'Bitirmek için kaç toplam puan ders vermeliyim',rsp58
+'Mezuniyet şartı toplam kaç kredi',rsp58
+'Mezuniyet için ne kadar ders vermem gerekiyor',rsp58
+'Mezun olmam için kaç tane ders vermeliyim',rsp58
+'Toplam kaç akts ders verildiğinde mezun olunuyor',rsp58
+'Kaç akts ders verdikten sonra mezun olurum',rsp58
+'Bölümde toplam kaç akts ders var',rsp58
+'Okulu bitirebilmem için kaç kaç kredi ders vermek zorundayım',rsp58
+'Okulun mezuniyet şartında toplam akts sayısı nedir',rsp58
+'Geçilmesi gereken derslerin toplam akts sayısı kaçtır',rsp58
+'Mezun olabilmek için toplam akts sayısını nasıl öğrenebilirim',rsp58
+'Mezuniyet için toplam kaç akts ders almak gerektiğini öğrenebilir miyim',rsp58
+'Toplam kaç alan dışı ders almam lazım',rsp59
+'Toplam kaç alan dışı ders almam gerekiyor',rsp59
+'Kaç alan dışı ders var',rsp59
+'Toplam kaç bölüm dışı ders alacağım',rsp59
+'Alan dışı ders sayısı',rsp59
+'Kaç tane alan dışı ders seçeceğim',rsp59
+'Toplam kaç alan dışı seçmeli ders var',rsp59
+'Kaç bölüm dışı seçmeli ders seçmek zorundayım',rsp59
+'Bölüm dışı seçmeli ders sayısı',rsp59
+'Kaç tane bölüm dışı ders almalıyım',rsp59
+'Mezun olmam için kaç tane alan dışı ders vermeliyim',rsp59
+'Okul bitimine kadar kaç alan dışı ders almış olacağım',rsp59
+'Toplam kaç alan dışı ders almam gerektiğini öğrenebilir miyim',rsp59
+'Alanım dışında kaç ders alacağım',rsp59
+'Bölümüm dışında kaç tane ders alacağım',rsp59
+'Bölümüm dışında ders alacak mıyım',rsp59
+'Alanım dışında ders alacak mıyım',rsp59
+'Bölümüm dışında alacağım derslerin sayısı nedir',rsp59
+'Kaç tane alan dışı ders almak zorundayım',rsp59
+'Alan dışı ders almak zorunda mıyım',rsp60
+'Bölüm dışı ders almasam olur mu',rsp60
+'Alan dışı ders almadan okulu bitirebilir miyim',rsp60
+'Alan dışı dersler yerine alan dersleri alsam olur mu',rsp60
+'Bölüm dışı seçmeli dersleri almadan ders seçimini bitirebilir miyim',rsp60
+'Alan dışı seçmeli ders almak mecburiyetinde miyim',rsp60
+'Bölüm dışı ders almak yükümlülüğünde miyim',rsp60
+'Alan dışı ders almama gerek var mı',rsp60
+'Bölüm dışı ders alacak mıyım',rsp60
+'Alan dışı seçmeli ders alacak mıyım',rsp60
+'Alan dışı ders seçmezsem bir şey olur mu',rsp60
+'Ders seçiminde alanım dışındaki derslerden almak zorunda mıyım',rsp60
+'Ders seçimini bölümüm dışındaki dersleri almadan tamamlayabilir miyim',rsp60
+'Alan dışı ders seçmek istemiyorum, almasam olur mu',rsp60
+'Mezun olmak için alan dışı dersleri vermek gerekiyor mu',rsp60
+'Bölüm dışı derslerden kaç tane almam gerekiyor',rsp60
+'Bilgisayar mühendisliği için kaç tane alan seçmeli alınır',rsp61
+'Bilgisayar mühendisliği bölümü öğrencileri kaç adet alan seçmeli ders seçiyor',rsp61
+'Bilgisayar mühendisliğinde kaç tane bölüm seçmeli ders almak zorundayım',rsp61
+'Bilgisayar mühendisliğinde seçmem gereken kaç adet alan seçmeli ders var',rsp61
+'Bilgisayar bölümünde kaç tane alan seçmeli ders alınıyor',rsp61 
+'Bilgisayar bölümü öğrencilileri kaç tane alan seçmeli seçmek mecburiyetinde',rsp61
+'Bilgisayar mühendisliğinde seçilmesi gereken alan seçmelilerin sayısı kaç',rsp61
+'Bilgisayar bölümünde hangi dönemlerde kaç tane alan seçmeli ders alıyoruz',rsp61
+'Bilgisayar mühendisliği bölümünde güz dönemi alan seçmeli ders alıyor muyuz',rsp61
+'Bilgisayar mühendisliği bölümünde bahar dönemi alan seçmeli ders alıyor muyuz',rsp61
+'Bilgisayar bölümünde alan içi seçmelilerden kaç tane almam gerekiyor',rsp61
+'Bilgisayar bölümünde kaç tane alan içi seçmeli alacağım ',rsp61
+'Bilgisayar mühendisliği okuyanlar kaç tane alan içi ders alıyor',rsp61
+'Öğrenci belgesini nasıl alırım',rsp62
+'Öğrenci belgemi okuldan alabilir miyim',rsp62
+'Öğrenci belgesini e devletten alabilir miyim',rsp62
+'Islak imzalı öğrenci belgesini nereden alabilirim',rsp62
+'Öğrenci belgesini okulun hangi bölümünde veriyorlar',rsp62
+'Öğrenci belgemi okulda nereden alacağım',rsp62
+'Öğrenci belgemi e devletten alabilme imkanım var mı',rsp62
+'Öğrenci belgemi okuldan imzalı almam mümkün mü',rsp62
+'Okulda öğrenci belgesi çıkarttırabiliyor muyum',rsp62
+'Okulda öğrenci belgesi veriyorlar mı',rsp62
+'Öğrenci belgesini hangi siteden alabilirim',rsp62
+'Öğrenci belgesini alabileceğim bir site var mı',rsp62
+'Öğrenci belgesini öğrenci işleri veriyor mu',rsp62
+'Öğrenci işlerinde öğrenci belgemi çıkarttırabilir miyim',rsp62
+'E devletten öğrenci belgemi çıkartsam olur mu',rsp62
+'Öğrenci belgesini almak için nereye gitmeliyim',rsp62
+'Öğrenci belgemi çıkartmak istiyorum bilgi alabilir miyim',rsp62
+'Öğrenci belgemi nereden alabileceğim konusunda bilgi almak istiyorum',rsp62
+'Okulda öğrenci belgesini nerede veriyorlar',rsp62
+'Öğrenci belgesine ihtiyacım var nereden alacağım',rsp62
+'Öğrenci belgesi lazım ne yapacağım',rsp62
+'Öğrenci belgesinin ıslak imzalı olması şart mı',rsp63
+'Öğrenci belgeme imza attırmasam olur olur mu',rsp63
+'Okuldan aldığım öğrenci belgesini imzalattırmak zorunda mıyım',rsp63
+'Okuldan aldığım öğrenci belgesini imzalattırmak mecburiyetinde miyim',rsp63
+'Öğrenci belgesini imzalı olması mı gerekiyor',rsp63
+'Öğrenci belgesi ıslak imzalı olmasa da olur mu',rsp63
+'Her kurum öğrenci belgesini imzalı mı istiyor',rsp63
+'Öğrenci belgemi imzalattıracak mıyım',rsp63
+'Öğrenci belgemi imzalattırmama gerek var mı',rsp63
+'Öğrenci belgesini imzalattırmadan kullansam olur mu',rsp63
+'Öğrenci belgesini imzalattırmadan alsam olur mu',rsp63
+'Islak imzasız öğrenci belgesinin hükmü var mı',rsp63
+'Kurumlar öğrenci belgesini imzalı mı alıyor',rsp63
+'Öğrenci belgesinin imzalı veya imzasız olmasının bir önemi var mı',rsp63
+'Öğrenci belgesinin imzalı ya da imzasız olması fark eder mi',rsp63
+'Transkript nasıl alabilirim',rsp64
+'Transkriptimi nereden alabilirim',rsp64
+'Transkript belgemi nasıl alabilirim',rsp64
+'Transkript belgesini okuldan alabilme imkanım var mı',rsp64
+'Transkript belgesini nereden alacağım',rsp64
+'Transkript belgemi nasıl temin edebilirim',rsp64
+'Transkript belgesini internetten alabilir miyim',rsp64
+'Transkript belgesi e devletten alınabiliyor mu',rsp64
+'Transkript belgemi nasıl çıkarttırabilirim',rsp64
+'Transkripti nasıl alabileceğim konusunda bilgi almak istiyorum',rsp64
+'Transkripimi kimden alabilirim',rsp64
+'Transkriptimi hangi birimden alabilirim',rsp64
+'Öğrenci transkriptini nereden alabilir',rsp64
+'Transkripti nereden alacağımı öğrenebilir miyim',rsp64
+'Transkripti okulda nerede çıkarttırıyorlar',rsp64
+'Transkripti okulda hangi birim veriyor',rsp64
+'Transkriptimi çıkarmakmak için kiminle görüşmeliyim',rsp64
+'Transkriptimi öğrenci işlerinden alabilir miyim',rsp64
+'Öğrenci işleri transktriptimi verir mi',rsp64
+'Transkript belgesi için öğrenci işlerine mi gitmeliyim',rsp64
+'Kayıt için gerekli evraklar nelerdir',rsp65
+'Okula kayıt için hangi belgeleri götürmem gerekiyor,'rsp65
+'Okula kayıt için gerekli belgeleri sorabilir miyim',rsp65
+'Okula kayıt için fotoğraf götürmeli miyim',rsp65
+'Kayıt için gereken belgeler nelerdir',rsp65
+'Üniversite kaydı için hangi belgeleri getirmek zorundayım',rsp65
+'Üniversite kaydında hangi belgeler isteniyor',rsp65
+'Kayıt için istenen belgeler nelerdir',rsp65
+'Üniversiteye kayıt olmam için lazım olan evraklar neler',rsp65
+'Kayıt için hangi belgelere ihtiyacım var',rsp65
+'Kayıt için nüfus cüzdanı fotokopisi gerekli mi',rsp65
+'Kayıt için ÖSYM sonuç belgesi lazım mı',rsp65
+'Üniversiteye kayıt işlemleri için gerekli belgeleri öğrenebilir miyim',rsp65
+'Üniversiteye kayıt için diploma götürecek miyim',rsp65
+'Ek puandan yararlanarak yerleşenler hangi belgeleri götürecek',rsp65
+'Kayıt için diploma denklik belgesi mi gerekiyor',rsp65
+'Üniversiteye kayıt olmak istiyorum hangi belgeleri götürmem gerekecek',rsp65
+'Üniversiteye kayıt olmam için kaç tane fotoğraf getireceğim',rsp65
+'Okula kayıt için gerekli evraklar hakkında bilgi edinebilir miyim',rsp65
+'Kayıt tarihleri',rsp66
+'Kayıt tarihleri ne zaman',rsp66
+'Üniversiteye kayıtlar ne zaman',rsp66
+'Üniversiteye kayıtlar ne zaman başlıyor',rsp66
+'Üniversiteye kayıtlar ne zaman bitiyor',rsp66
+'Üniversite kayıt tarihlerini nerede görebilirim',rsp66
+'Kayıt tarihlerini internette görebilr miyim',rsp66
+'Üniversite kayıt tarihleri üniversitenin sitesinde var mı'rsp66
+'Okul kaydı ne zaman başlıyor,'rsp66
+'Okul kaydı ne zamana kadar',rsp66
+'Okul kayıtları için ne kadar sürem kaldı',rsp66
+'Üniversiye kayıtlar hangi tarihler arasında yapılıyor',rsp66
+'Okula kayıtların başlangıç tarihi ne zaman',rsp66
+'Üniversiteye kayıtların bitiş tarihi nedir',rsp66
+'Üniversiteye kayıtlar en son ne zaman yapılıyor',rsp66
+'Üniversiteye kayıtlar hangi gün başlıyor',rsp66
+'Üniversiteye kayıtlar hangi gün bitiyor',rsp66
+'Üniversiteye kayıtlar hangi ay başlayacak',rsp66
+'Üniversiteye kayıt tarihleri hakkında bilgi alabilir miyim',rsp66
+'Üniversiteye kayıt için ne zaman okula gideceğim',rsp66
+'Üniversiteye kayıt ne kadar vaktim kaldı',rsp66
+'Okula kayıtlar ne vakit başlayacak',rsp66
+'Akademik takvime nasıl ulaşabilirim',rsp67
+'Akademik takvim sitede nerede',rsp67
+'Akademik takvimi nereden görebilirim',rsp67
+'Akademik takvime nereden bakabilirim',rsp67
+'Bölümümün akademik takvimi nerede',rsp67
+'Akademik takvime nereden ulaşacağım',rsp67
+'Akademik takvim okulun sitesinde var mı',rsp67
+'Akademik takvim üniversitenin sitesinde var mı',rsp67
+'Akademik takvimi nasıl bulabilirim',rsp67
+'Akademik takvim üniversitenin sitesinde nerede',rsp67
+'Akademik takvime hangi siteden gireceğim',rsp67
+'Akademik takvimi görmek istiyorum',rsp67
+'Akademik takvim için link alabilir miyim',rsp67
+'Akademik takvim için bağlantı alabilir miyim',rsp67
+'Akademik takvim nerede',rsp67
+'Bu senenin akademik takvimi hakkında bilgi alabilir miyim',rsp67
+'Bu senenin akademik takvimini görebilir miyim',rsp67
+'Bölümümün akademik takvimine nasıl ulaşabilirim',rsp67
+'Bu yılın akademik takvimini görmek istiyorum',rsp67
+'Bölümümün akademik takvimini üniversitenin sitesinden öğrenebilir miyim',rsp67
+'Bu öğretim yılının akademik takvimi hakkında bilgiye nereden ulaşabilirim',rsp67
+'Kayıtlanma şekli',rsp68
+'Okula nasıl kayıt olabilirim',rsp68
+'Okula hangi yollarla kayıt olabilirim',rsp68
+'Okula internetten kayıt olabilir miyim',rsp68
+'Üniversiteye kaydımı nasıl yaparım',rsp68
+'Okula e devletten kaydımı yapabilir miyim',rsp68
+'Okula e devletten kayıt yapılabiliyor mu',rsp68
+'Okula e devletten kaydımı yapabilir miyim',rsp68
+'Okula kayıt için bir başkası yerime gelebilir mi',rsp68
+'Üniversite kaydı sadece okula gidilerek mi yapılıyor',rsp68
+'Üniversite kaydı okula gidilmeden yapılabiliyor mu',rsp68
+'Okula kaydımı annem yapabilir mi',rsp68
+'Okula kaydımı babam yapabilir mi',rsp68
+'Okula kaydımı kardeşim yapabilir mi',rsp68
+'Okula kaydımı abim yapabilir mi',rsp68
+'Okula kaydımı ben mi yapmak zorundayım',rsp68
+'Okula gitmeden kaydımı yapabilir miyim',rsp68
+'Üniversite kayıtları nasıl yapılır',rsp68
+'Üniversiteye e kayıt yapabilir miyim',rsp68
+'Üniversiteye kayıt nereden yapılır',rsp68
+'Üniversiteye kayıt online yapılabilir mi',rsp68
+'Üniversiteye kaydımı hangi siteden yapacağım',rsp68
+'Okula kaydımı yaptırmak için nereye gitmeliyim',rsp68
+'Üniversite nasıl kayıt yaptırılır bilgi alabilir miyim',rsp68
+'Oğlumu üniversiteye nasıl kaydettireceğiz',rsp68
+'Kızımı üniversiteye nasıl kaydettireceğiz',rsp68
+'Çocuğumu üniversiteye nasıl kaydettireceğimi öğrenebilir miyim',rsp68
+'Kayıt yenileme tarihleri',rsp69
+'Kayıt yenileme tarihleri için kaç gün kaldı',rsp69
+'Kayıt yenileme tarihleri ne zaman',rsp69
+'Kayıt yenileme tarihleri ne zaman başlıyor',rsp69
+'Kayıt yenileme tarihleri ne zaman bitiyor',rsp69
+'Kayıt yenileme tarihlerini nereden görebilirim',rsp69
+'Kayıt yenileme tarihlerine nereden bakabilirim',rsp69
+'Kayıt yenileme tarihleri nerede yazıyor',rsp69
+'Kayıt yenileme tarihleri okulun sitesinde var mı',rsp69
+'Kayır yenileme ne zaman başlayacak',rsp69
+'Kayıt yenileme için ne zaman işlem yapacağım',rsp69
+'Kaydımı ne zaman yenileyeceğim',rsp69
+'Kayıt yenileme ne vakit başlıyor',rsp69
+'Kayıt yenileme hangi gün başlıyor',rsp69
+'Kayıt yenileme hangi ay başlayacak',rsp69
+'Kayıt yenileme hangi gün bitecek',rsp69
+'Kayıt yenileme son günü ne zaman',rsp69
+'Kayıt yenileme tarihleri hakkında bilgi alabilir miyim',rsp69
+'Kayıt yenileme için ne kadar vaktim var',rsp69
+'Kayıt yenileme başlangıç tarihini ne zaman',rsp69
+'Kayıt yenilemeyi ne zaman yapacağım',rsp69
+'Kayıt yenileme hangi tarihlerde yapılır',rsp69
+'Kayıt yenileme en son ne zaman yapılabilir',rsp69
+'Mazeretli kayıt tarihleri',rsp70
+'Mazeretli kayıt tarihleri ne zaman',rsp70
+'Mazeretli kayıt tarihleri ne zaman başlıyor',rsp70
+'Mazeretli kayıt tarihleri ne zaman bitiyor',rsp70
+'Mazeretli kayıt tarihlerini nereden görebilirim',rsp70
+'Mazeretli kayıt tarihlerine nereden bakabilirim',rsp70
+'Mazeretli kayıtlar ne zaman başlayacak',rsp70
+'Mazeretli kayıt tarihlerei nerede yazıyor',rsp70
+'Mazeretli kayıtların başlangıç tarihi nedir',rsp70
+'Mazeretli kayıtlar ne vakit başlıyor',rsp70
+'Mazeretli kayıt başvuru tarihleri ne zaman',rsp70
+'Mazeretli kayıt tarihleri hangi gün başlıyor',rsp70
+'Mazeretli kayıt tarihleri hangi ay başlayacak',rsp70
+'Mazeretli kayıt tarihleri hakkında bilgi alabilir miyim',rsp70
+'Okulumun mazeretli kayıt tarihleri nedir',rsp70
+'Mazeretli kayıtlar hangi tarihlerde yapılıyor',rsp70
+'Mazeretli kayıtlar en son ne zaman yapılıyor',rsp70
+'Mazeretli kayıtlar hangi tarihler arasındadır',rsp70
+'Mazeretli kayıtlar için ne zamana kadar vaktim var',rsp70
+'Mazeretli kayıtların son günü ne',rsp70
+'Mazeretli kayıtlar için en son hangi gün işlem yapabilirim',rsp70
+'Mazeretli kayıtların tarihlerine nereden ulaşabilirim',rsp70
+'Mazeretli kayıtların tarihlerini öğrenebileceğim bir link alabilir miyim',rsp70
+'Nasıl ders değiştirebilirim',rsp71
+'Seçtiğim bir dersi nasıl değiştirebilirim',rsp71
+'Ders seçimi yaptıktan sonra bir dersi nasıl değiştirebilirim',rsp71
+'Ders seçimlerim onaylandıktan sonra nasıl değiştirebilirim',rsp71
+'Derslerim danışman tarafından onaylandıktan sonra değiştirme şansım var mı',rsp71
+'Seçtiğim bir ders onaylandıktan sonra değiştirebiliyor muyum',rsp71
+'Ders seçiminden sonra onaylanan dersi değiştirmek için ne yapmam gerekir',rsp71
+'Danışman tarafından onaylanan dersler değiştirilebilir mi',rsp71
+'Daha önceden seçtiğim bir dersi bir başkasıyla değiştirebilir miyim',rsp71
+'Seçtiğim bir dersi değiştirmek için ne yapmalıyım',rsp71
+'Seçmeli bir dersi nasıl değiştirebilirim',rsp71
+'Alan içi bir dersi değiştirmem mümkün mü',rsp71
+'Bölüm dersleri değiştirilebilir mi',rsp71
+'Seçtiğim derslerden değişitirmek istediklerim var kime mail atmalıyım',rsp71
+'Değiştirmek istediğim dersler için kiminle görüşmeliyim',rsp71
+'Asistanlar ders değiştirebilir mi',rsp71
+'Hocayla görüşüp seçtiğim dersi değiştirebilir miyim',rsp71
+'Aldığım ders yerine başka bir ders almak istiyorum ne yapmalıyım',rsp71
+'Ders seçimimi değiştirmenin bir yolu var mı',rsp71
+'Onaylanan dersleri güncelleyebilir miyim',rsp71
+'Derslerim onaylanmış ama ben değiştirmek istiyorum ne yapmalıyım',rsp71
+'DD nasıl DB ye döner',rsp72
+'DD olan bir ders nasıl DB ye döner',rsp72
+'DD aldığım bir dersi nasıl DB ye çevirebilirim',rsp72
+'Notu DD olan bir dersi geçer nota çevirebilme imkanım var mı',rsp72
+'Notu DD olan dersi DB ye çevirmem için not ortalamamın kaç olması gerekir',rsp72
+'Notu DD olan dersi DB ye çevirmem için genel not ortalamamın kaç olması gerekir',rsp72
+'Notu DD olan dersi geçme imkanım var mı',rsp72
+'DD olan dersi nasıl geçebilirim',rsp72
+'DD notumu nasıl geçer nota çevirebilirim',rsp72
+'Notu DD olan dersi geçmek için not ortalamam kaç olmalı',rsp72
+'Bir dersi notu DD iken geçebilme şansım var mı',rsp72
+'DD olan dersi geçmem için dönem ortamamın kaç olması lazım',rsp72
+'Şartlı geçiş yapmak için not ortalamam kaç olmalı',rsp72
+'Koşullu geçiş yapmak için not ortalamam kaç olmalı',rsp72
+'Bir dersten notun DD nasıl geçerim',rsp72
+'DD aldığım dersin bütünlemesine girmeden geçebilir miyim',rsp72
+'DD den DB ye dönüşüm',rsp72
+'DB ye dönüşüm nasıl oluyor',rsp72
+'Bütünleme sınavı sonunda DD aldığım bir dersi geçebilir miyim',rsp72
+'DD alınan dersin bütünlemesine girmek zorunlu mu',rsp72
+'DD aldığım bir dersi bütünlemede FF getirdim hangisi geçerli olur',rsp72
+'Başarı notu DD olan bir dersim var bu dersi nasıl geçeceğim',rsp72
+'Ders muafiyeti için ne yapmam gerekiyor?',rsp73
+'Ders muafiyeti için ne gerekli?',rsp73
+'Ders muafiyeti yapmak istiyorum.',rsp73
+'Bazı derslerden muaf olmak istiyorum.',rsp73
+'Muafiyet için ne lazım?',rsp73
+'Ders muafiyeti için ne lazım?',rsp73
+'Önceden aldığım derslerden muaf olmak için ne yapmalıyım?',rsp73
+'Önceden aldığım derslerden muaf olmak istiyorum',rsp73
+'Önceden aldığım derslerden muaf olabilir miyim?',rsp73
+'Önceden aldığım dersleri tekrar almak istemiyorum.',rsp73
+'Önceden aldığım dersleri tekrar almamak için ne yapmalıyım?',rsp73
+'Önceden aldığım dersleri kesebilir miyim?',rsp73
+'Önceden aldığım dersleri saydırabilir miyim?',rsp73
+'Muafiyet itirazı nasıl yapılır?',rsp74
+'Muafiyet itirazı nasıl olur?',rsp74
+'Muafiyet itirazı yapmak istiyorum.',rsp74
+'Muafiyet itirazı için ne lazım?',rsp74
+'Muafiyet itirazı için ne gerekli?',rsp74
+'Muafiyet dilekçem geri çevrildi.',rsp74
+'Muafiyet dilekçem geri çevrildi,  ne yapmam lazım?',rsp74
+'Muafiyet dilekçem geri çevrildi,  ne yapmalıyım?',rsp74
+'Muafiyet dilekçem geri çevrildi, şimdi ne yapmalıyım?',rsp74
+'Muafiyet dilekçem geri çevrildi, şimdi ne yapmam lazım?',rsp74
+'Muafiyet dilekçem geri çevrildi,  itiraz edebilir miyim?',rsp74
+'Muafiyet dilekçem geri çevrildi, nasıl itiraz etmeliyim?',rsp74
+'Muafiyet dilekçem geri çevrildi, tekrar dilekçe verebilir miyim?',rsp74
+'Muafiyet dilekçem geri çevrildi, yeniden dilekçe verebilir miyim?',rsp74
+'Muafiyet isteğim geri çevrildi.',rsp74
+'Muafiyet isteğim geri çevrildi,  ne yapmam lazım?',rsp74
+'Muafiyet isteğim geri çevrildi,  ne yapmalıyım?',rsp74
+'Muafiyet isteğim geri çevrildi, şimdi ne yapmalıyım?',rsp74
+'Muafiyet isteğim geri çevrildi, şimdi ne yapmam lazım?',rsp74
+'Muafiyet isteğim geri çevrildi,  itiraz edebilir miyim?',rsp74
+'Muafiyet isteğim geri çevrildi, nasıl itiraz etmeliyim?',rsp74
+'Muafiyet isteğim geri çevrildi, tekrar dilekçe verebilir miyim?',rsp74
+'Muafiyet isteğim geri çevrildi, yeniden dilekçe verebilir miyim?',rsp74
+'Muafiyet dilekçem reddedildi.',rsp74
+'Muafiyet dilekçem reddedildi,  ne yapmam lazım?',rsp74
+'Muafiyet dilekçem reddedildi,  ne yapmalıyım?',rsp74
+'Muafiyet dilekçem reddedildi, şimdi ne yapmalıyım?',rsp74
+'Muafiyet dilekçem reddedildi, şimdi ne yapmam lazım?',rsp74
+'Muafiyet dilekçem reddedildi, itiraz edebilir miyim?',rsp74
+'Muafiyet dilekçem reddedildi, nasıl itiraz etmeliyim?',rsp74
+'Muafiyet dilekçem reddedildi, tekrar dilekçe verebilir miyim?',rsp74
+'Muafiyet dilekçem reddedildi, yeniden dilekçe verebilir miyim?',rsp74
+'Muafiyet isteğim reddedildi.',rsp74
+'Muafiyet isteğim reddedildi,  ne yapmam lazım?',rsp74
+'Muafiyet isteğim reddedildi,  ne yapmalıyım?',rsp74
+'Muafiyet isteğim reddedildi, şimdi ne yapmalıyım?',rsp74
+'Muafiyet isteğim reddedildi, şimdi ne yapmam lazım?',rsp74
+'Muafiyet isteğim reddedildi, itiraz edebilir miyim?',rsp74
+'Muafiyet isteğim reddedildi, nasıl itiraz etmeliyim?',rsp74
+'Muafiyet isteğim reddedildi, tekrar dilekçe verebilir miyim?',rsp74
+'Muafiyet isteğim reddedildi, yeniden dilekçe verebilir miyim?',rsp74
+'Muafiyet isteğim reddedildi, yeniden dilekçe verebilir miyim?',rsp74
+'Muafiyet isteğime itiraz edildi, ne yapmam lazım?',rsp74
+'Muafiyet isteğime itiraz edildi,  ne yapmalıyım?',rsp74
+'Muafiyet isteğime itiraz edildi, şimdi ne yapmalıyım?',rsp74
+'Muafiyet isteğime itiraz edildi, şimdi ne yapmam lazım?',rsp74
+'Muafiyet isteğime itiraz edildi, itiraz edebilir miyim?',rsp74
+'Muafiyet isteğime itiraz edildi, nasıl itiraz etmeliyim?',rsp74
+'Muafiyet isteğime itiraz edildi, tekrar dilekçe verebilir miyim?',rsp74
+'Muafiyet isteğime itiraz edildi, yeniden dilekçe verebilir miyim?',rsp74
+'Muafiyet dilekçeme itiraz edildi, ne yapmam lazım?',rsp74
+'Muafiyet dilekçeme itiraz edildi,  ne yapmalıyım?',rsp74
+'Muafiyet dilekçeme itiraz edildi, şimdi ne yapmalıyım?',rsp74
+'Muafiyet dilekçeme itiraz edildi, şimdi ne yapmam lazım?',rsp74
+'Muafiyet dilekçeme itiraz edildi, itiraz edebilir miyim?',rsp74
+'Muafiyet dilekçeme itiraz edildi, nasıl itiraz etmeliyim?',rsp74
+'Muafiyet dilekçeme itiraz edildi, tekrar dilekçe verebilir miyim?',rsp74
+'Muafiyet dilekçeme itiraz edildi, yeniden dilekçe verebilir miyim?',rsp74
+'Muafiyet isteğime itiraz geldi, ne yapmam lazım?',rsp74
+'Muafiyet isteğime itiraz geldi,  ne yapmalıyım?',rsp74
+'Muafiyet isteğime itiraz geldi, şimdi ne yapmalıyım?',rsp74
+'Muafiyet isteğime itiraz geldi, şimdi ne yapmam lazım?',rsp74
+'Muafiyet isteğime itiraz geldi, itiraz edebilir miyim?',rsp74
+'Muafiyet isteğime itiraz geldi, nasıl itiraz etmeliyim?',rsp74
+'Muafiyet isteğime itiraz geldi, tekrar dilekçe verebilir miyim?',rsp74
+'Muafiyet isteğime itiraz geldi, yeniden dilekçe verebilir miyim?',rsp74
+'Muafiyet dilekçeme itiraz geldi, ne yapmam lazım?',rsp74
+'Muafiyet dilekçeme itiraz geldi,  ne yapmalıyım?',rsp74
+'Muafiyet dilekçeme itiraz geldi, şimdi ne yapmalıyım?',rsp74
+'Muafiyet dilekçeme itiraz geldi, şimdi ne yapmam lazım?',rsp74
+'Muafiyet dilekçeme itiraz geldi, itiraz edebilir miyim?',rsp74
+'Muafiyet dilekçeme itiraz geldi, nasıl itiraz etmeliyim?',rsp74
+'Muafiyet dilekçeme itiraz geldi, tekrar dilekçe verebilir miyim?',rsp74
+'Muafiyet dilekçeme itiraz geldi, yeniden dilekçe verebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim geri çevrildi,ne yapmam lazım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim geri çevrildi,şimdi ne yapmalıyım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim geri çevrildi,şimdi ne yapmam lazım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim geri çevrildi,itiraz edebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim geri çevrildi,nasıl itiraz etmeliyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim geri çevrildi,tekrar dilekçe verebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim geri çevrildi,yeniden dilekçe verebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim reddedildi,ne yapmam lazım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim reddedildi,şimdi ne yapmalıyım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim reddedildi,şimdi ne yapmam lazım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim reddedildi,itiraz edebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim reddedildi,nasıl itiraz etmeliyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim reddedildi,tekrar dilekçe verebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim reddedildi,yeniden dilekçe verebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz edildi,ne yapmam lazım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz edildi,şimdi ne yapmalıyım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz edildi,şimdi ne yapmam lazım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz edildi,itiraz edebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz edildi,nasıl itiraz etmeliyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz edildi,tekrar dilekçe verebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz edildi,yeniden dilekçe verebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz geldi,ne yapmam lazım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz geldi,şimdi ne yapmalıyım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz geldi,şimdi ne yapmam lazım?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz geldi,itiraz edebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz geldi,nasıl itiraz etmeliyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz geldi,tekrar dilekçe verebilir miyim?',rsp74
+'Önceden aldığım dersleri tekrar almamak için dilekçe vermiştim itiraz geldi,yeniden dilekçe verebilir miyim?',rsp74
+'Kayıt silmek istiyorum.',rsp75
+'Kayıt silmek istiyorum, ne yapmalıyım?',rsp75
+'Kayıt silmek istiyorum, ne yapmam lazım?',rsp75
+'Kayıt silmek istiyorum, şimdi ne yapmalıyım?',rsp75
+'Kayıt silmek istiyorum, şimdi ne yapmam lazım?',rsp75
+'Kayıt silmek istiyorum, nasıl yapmam gerekiyor?',rsp75
+'Kayıt silmek istiyorum, nasıl yapmalıyım?',rsp75
+'Kayıt silmek istiyorum, nasıl olur?',rsp75
+'Kayıt silme işi için ne yapmalıyım?',rsp75
+'Kayıt silme işi için ne yapmam lazım?',rsp75
+'Kayıt silme işi için şimdi ne yapmalıyım?',rsp75
+'Kayıt silme işi için şimdi ne yapmam lazım?',rsp75
+'Kayıt silme işini nasıl yapmam gerekiyor?',rsp75
+'Kayıt silme işini nasıl yapmalıyım?',rsp75
+'Kayıt silme işi nasıl olur?',rsp75
+'Kayıt silme işlemi için ne yapmalıyım?',rsp75
+'Kayıt silme işlemi için ne yapmam lazım?',rsp75
+'Kayıt silme işlemi için şimdi ne yapmalıyım?',rsp75
+'Kayıt silme işlemi için şimdi ne yapmam lazım?',rsp75
+'Kayıt silme işlemi nasıl gerçekleşir?',rsp75
+'Kayıt silme işini nasıl yapmam gerekiyor?',rsp75
+'Kayıt silme işini nasıl yapmalıyım?',rsp75
+'Kayıt silme işi nasıl olur?',rsp75
+'Kaydımı silmek istiyorum.',rsp75
+'Kaydımı silmek istiyorum, ne yapmalıyım?',rsp75
+'Kaydımı silmek istiyorum, ne yapmam lazım?',rsp75
+'Kaydımı silmek istiyorum, şimdi ne yapmalıyım?',rsp75
+'Kaydımı silmek istiyorum, şimdi ne yapmam lazım?',rsp75
+'Kaydımı silmek istiyorum, nasıl yapmam gerekiyor?',rsp75
+'Kaydımı silmek istiyorum, nasıl yapmalıyım?',rsp75
+'Kaydımı silmek istiyorum, nasıl olur?',rsp75
+'Kaydımı silme işi için ne yapmalıyım?',rsp75
+'Kaydımı silme işi için ne yapmam lazım?',rsp75
+'Kaydımı silme işi için şimdi ne yapmalıyım?',rsp75
+'Kaydımı silme işi için şimdi ne yapmam lazım?',rsp75
+'Kaydımı silme işini nasıl yapmam gerekiyor?',rsp75
+'Kaydımı silme işini nasıl yapmalıyım?',rsp75
+'Kaydımı silme işi nasıl olur?',rsp75
+'Kaydımı silme işlemi için ne yapmalıyım?',rsp75
+'Kaydımı silme işlemi için ne yapmam lazım?',rsp75
+'Kaydımı silme işlemi için şimdi ne yapmalıyım?',rsp75
+'Kaydımı silme işlemi için şimdi ne yapmam lazım?',rsp75
+'Kaydımı silme işlemi nasıl gerçekleşir?',rsp75
+'Kaydımı silme işini nasıl yapmam gerekiyor?',rsp75
+'Kaydımı silme işini nasıl yapmalıyım?',rsp75
+'Kaydımı silme işi nasıl olur?',rsp75
+'Kayıt dondurmak istiyorum.',rsp76
+'Kayıt dondurmak istiyorum, ne yapmalıyım?',rsp76
+'Kayıt dondurmak istiyorum, ne yapmam lazım?',rsp76
+'Kayıt dondurmak istiyorum, şimdi ne yapmalıyım?',rsp76
+'Kayıt dondurmak istiyorum, şimdi ne yapmam lazım?',rsp76
+'Kayıt dondurmak istiyorum, nasıl yapmam gerekiyor?',rsp76
+'Kayıt dondurmak istiyorum, nasıl yapmalıyım?',rsp76
+'Kayıt dondurmak istiyorum, nasıl olur?',rsp76
+'Kayıt dondurma işi için ne yapmalıyım?',rsp76
+'Kayıt dondurma işi için ne yapmam lazım?',rsp76
+'Kayıt dondurma işi için şimdi ne yapmalıyım?',rsp76
+'Kayıt dondurma işi için şimdi ne yapmam lazım?',rsp76
+'Kayıt dondurma işini nasıl yapmam gerekiyor?',rsp76
+'Kayıt dondurma işini nasıl yapmalıyım?',rsp76
+'Kayıt dondurma işi nasıl olur?',rsp76
+'Kayıt dondurma işlemi için ne yapmalıyım?',rsp76
+'Kayıt dondurma işlemi için ne yapmam lazım?',rsp76
+'Kayıt dondurma işlemi için şimdi ne yapmalıyım?',rsp76
+'Kayıt dondurma işlemi için şimdi ne yapmam lazım?',rsp76
+'Kayıt dondurma işlemi nasıl gerçekleşir?',rsp76
+'Kayıt dondurma işini nasıl yapmam gerekiyor?',rsp76
+'Kayıt dondurma işini nasıl yapmalıyım?',rsp76
+'Kayıt dondurma işi nasıl olur?',rsp76
+'Kaydımı dondurmak istiyorum.',rsp76
+'Kaydımı dondurmak istiyorum, ne yapmalıyım?',rsp76
+'Kaydımı dondurmak istiyorum, ne yapmam lazım?',rsp76
+'Kaydımı dondurmak istiyorum, şimdi ne yapmalıyım?',rsp76
+'Kaydımı dondurmak istiyorum, şimdi ne yapmam lazım?',rsp76
+'Kaydımı dondurmak istiyorum, nasıl yapmam gerekiyor?',rsp76
+'Kaydımı dondurmak istiyorum, nasıl yapmalıyım?',rsp76
+'Kaydımı dondurmak istiyorum, nasıl olur?',rsp76
+'Kaydımı dondurma işi için ne yapmalıyım?',rsp76
+'Kaydımı dondurma işi için ne yapmam lazım?',rsp76
+'Kaydımı dondurma işi için şimdi ne yapmalıyım?',rsp76
+'Kaydımı dondurma işi için şimdi ne yapmam lazım?',rsp76
+'Kaydımı dondurma işini nasıl yapmam gerekiyor?',rsp76
+'Kaydımı dondurma işini nasıl yapmalıyım?',rsp76
+'Kaydımı dondurma işi nasıl olur?',rsp76
+'Kaydımı dondurma işlemi için ne yapmalıyım?',rsp76
+'Kaydımı dondurma işlemi için ne yapmam lazım?',rsp76
+'Kaydımı dondurma işlemi için şimdi ne yapmalıyım?',rsp76
+'Kaydımı dondurma işlemi için şimdi ne yapmam lazım?',rsp76
+'Kaydımı dondurma işlemi nasıl gerçekleşir?',rsp76
+'Kaydımı dondurma işini nasıl yapmam gerekiyor?',rsp76
+'Kaydımı dondurma işini nasıl yapmalıyım?',rsp76
+'Kaydımı dondurma işi nasıl olur?',rsp76
+'Yabancı uyruklu öğrenciyım kayıt yaptırmak istiyorum',rsp77
+'Yabancı uyruklu öğrenci nasıl kayıt yaptırır?',rsp77
+'Yabancı uyruklu öğrenciler nasıl kayıt yaptır?',rsp77
+'Yabancı uyruklu öğrencilerin kayıt için ne yapması lazım?',rsp77
+'Yabancı uyruklu öğrencilerin kayıt için ne yapmaları lazım?',rsp77
+'Yabancı uyruklu öğrencilerin kayıt için ne yapmaları gerekli?',rsp77
+'Yabancı uyruklu öğrencilerin kayıtlarını nasıl yapmaları gerekir?',rsp77
+'Yabancı uyruklu öğrencilerin kayıtlarını nasıl yapmaları lazım?',rsp77
+'Yabancı öğrenciyım kayıt yaptırmak istiyorum',rsp77
+'Yabancı öğrenci nasıl kayıt yaptırır?',rsp77
+'Yabancı öğrenciler nasıl kayıt yaptır?',rsp77
+'Yabancı öğrencilerin kayıt için ne yapması lazım?',rsp77
+'Yabancı öğrencilerin kayıt için ne yapmaları lazım?',rsp77
+'Yabancı öğrencilerin kayıt için ne yapmaları gerekli?',rsp77
+'Yabancı öğrencilerin kayıtlarını nasıl yapmaları gerekir?',rsp77
+'Yabancı öğrencilerin kayıtlarını nasıl yapmaları lazım?',rsp77
+'Yabancı ülkeden öğrenci olarak geldim kayıt yaptırmak istiyorum.',rsp77
+'Yabancı ülkeden öğrenci olarak geldim nasıl kayıt yaptırırım?',rsp77
+'Yabancı ülkeden öğrenci olarak geldim kayıt için ne yapmalıyım?',rsp77
+'Yabancı ülkeden öğrenci olarak geldim kayıt için ne yapmam lazım?',rsp77
+'Yabancı ülkeden öğrenci olarak geldim kaydımı nasıl yapmam lazım?',rsp77
+'Yabancı ülkeden öğrenci olarak geldim kaydımı nasıl yapmam gerekiyor?',rsp77
+'Yabancı ülkeden öğrenci olarak geldim kaydımı nasıl yaparım?',rsp77
+'Başka ülkeden geldim kayıt yaptırmak istiyorum.',rsp77
+'Başka ülkeden geldim nasıl kayıt yaptırırım?',rsp77
+'Başka ülkeden geldim kayıt için ne yapmalıyım?',rsp77
+'Başka ülkeden geldim kayıt için ne yapmam lazım?',rsp77
+'Başka ülkeden geldim kaydımı nasıl yapmam lazım?',rsp77
+'Başka ülkeden geldim kaydımı nasıl yapmam gerekiyor?',rsp77
+'Başka ülkeden geldim kaydımı nasıl yaparım?',rsp77
+'Başka ülkeden öğrenci olarak geldim kayıt yaptırmak istiyorum.',rsp77
+'Başka ülkeden öğrenci olarak geldim nasıl kayıt yaptırırım?',rsp77
+'Başka ülkeden öğrenci olarak geldim kayıt için ne yapmalıyım?',rsp77
+'Başka ülkeden öğrenci olarak geldim kayıt için ne yapmam lazım?',rsp77
+'Başka ülkeden öğrenci olarak geldim kaydımı nasıl yapmam lazım?',rsp77
+'Başka ülkeden öğrenci olarak geldim kaydımı nasıl yapmam gerekiyor?',rsp77
+'Başka ülkeden öğrenci olarak geldim kaydımı nasıl yaparım?',rsp77
+'Yurt dışından geldim kayıt yaptırmak istiyorum.',rsp77
+'Yurt dışından geldim nasıl kayıt yaptırırım?',rsp77
+'Yurt dışından geldim kayıt için ne yapmalıyım?',rsp77
+'Yurt dışından geldim kayıt için ne yapmam lazım?',rsp77
+'Yurt dışından geldim kaydımı nasıl yapmam lazım?',rsp77
+'Yurt dışından geldim kaydımı nasıl yapmam gerekiyor?',rsp77
+'Yurt dışından geldim kaydımı nasıl yaparım?',rsp77
+'Yurt dışından öğrenci olarak geldim kayıt yaptırmak istiyorum.',rsp77
+'Yurt dışından öğrenci olarak geldim nasıl kayıt yaptırırım?',rsp77
+'Yurt dışından öğrenci olarak geldim kayıt için ne yapmalıyım?',rsp77
+'Yurt dışından öğrenci olarak geldim kayıt için ne yapmam lazım?',rsp77
+'Yurt dışından öğrenci olarak geldim kaydımı nasıl yapmam lazım?',rsp77
+'Yurt dışından öğrenci olarak geldim kaydımı nasıl yapmam gerekiyor?',rsp77
+'Yurt dışından öğrenci olarak geldim kaydımı nasıl yaparım?',rsp77
+'Yabancı uyruklu öğrenciler için türkçe hazırlık sınavı var mı?',rsp78
+'Yabancı uyruklu öğrenciler için türkçe hazırlık sınavı oluyor mu?',rsp78
+'Yabancı uyruklu öğrenciler için türkçe hazırlık sınavı gerekli mi?',rsp78
+'Yabancı uyruklu öğrenciler için türkçe hazırlık sınavı lazım mı?',rsp78
+'Yabancı öğrenciler için türkçe hazırlık sınavı var mı?',rsp78
+'Yabancı öğrenciler için türkçe hazırlık sınavı oluyor mu?',rsp78
+'Yabancı öğrenciler için türkçe hazırlık sınavı gerekli mi?',rsp78
+'Yabancı öğrenciler için türkçe hazırlık sınavı lazım mı?',rsp78
+'Başka ülkeden geldim türkçe hazırlık sınavı var mı?',rsp78
+'Başka ülkeden geldim türkçe hazırlık sınavı oluyor mu?',rsp78
+'Başka ülkeden geldim türkçe hazırlık sınavı gerekli mi?',rsp78
+'Başka ülkeden geldim türkçe hazırlık sınavı lazım mı?',rsp78
+'Başka ülkeden öğrenci olarak geldim türkçe hazırlık sınavı var mı?',rsp78
+'Başka ülkeden öğrenci olarak geldim türkçe hazırlık sınavı oluyor mu?',rsp78
+'Başka ülkeden öğrenci olarak geldim türkçe hazırlık sınavı gerekli mi?',rsp78
+'Başka ülkeden öğrenci olarak geldim türkçe hazırlık sınavı lazım mı?',rsp78
+'Yurt dışından öğrenci olarak geldim türkçe hazırlık sınavı var mı?',rsp78
+'Yurt dışından öğrenci olarak geldim türkçe hazırlık sınavı oluyor mu?',rsp78
+'Yurt dışından öğrenci olarak geldim türkçe hazırlık sınavı gerekli mi?',rsp78
+'Yurt dışından öğrenci olarak geldim türkçe hazırlık sınavı lazım mı?',rsp78
+'Yurt dışından geldim  türkçe hazırlık sınavı var mı?',rsp78
+'Yurt dışından geldim türkçe hazırlık sınavı oluyor mu?',rsp78
+'Yurt dışından geldim türkçe hazırlık sınavı gerekli mi?',rsp78
+'Yurt dışından geldim türkçe hazırlık sınavı lazım mı?',rsp78
+'Zorunlu ingilizce dersi için muafiyet sınavı var mı?',rsp79
+'Zorunlu ingilizce dersi için muafiyet sınavı oluyor mu?',rsp79
+'Zorunlu ingilizce dersi için muafiyet sınavı gerekli mi?',rsp79
+'Zorunlu ingilizce dersi için muafiyet sınavı oluyor mu?',rsp79
+'Zorunlu ingilizce için muafiyet sınavı var mı?',rsp79
+'Zorunlu ingilizce için muafiyet sınavı oluyor mu?',rsp79
+'Zorunlu ingilizce için muafiyet sınavı gerekli mi?',rsp79
+'Zorunlu ingilizce için muafiyet sınavı oluyor mu?',rsp79
+'İngilizce dersi için muafiyet sınavı var mı?',rsp79
+'İngilizce dersi için muafiyet sınavı oluyor mu?',rsp79
+'İngilizce dersi için muafiyet sınavı gerekli mi?',rsp79
+'İngilizce dersi için muafiyet sınavı oluyor mu?',rsp79
+'Zorunlu ingilizce dersi muafiyet sınavı ne zaman?',rsp80
+'Zorunlu ingilizce dersi muafiyet sınavı hangi tarihte?'rsp80
+'Zorunlu ingilizce dersi muafiyet sınavı hangi dönemde?',rsp80
+'Zorunlu ingilizce dersi muafiyet sınavı hangi zaman aralığında?',rsp80
+'Zorunlu ingilizce dersi için muafiyet sınavı ne zaman?',rsp80
+'Zorunlu ingilizce dersi için muafiyet sınavı hangi tarihte?',rsp80
+'Zorunlu ingilizce dersi için muafiyet sınavı hangi dönemde?',rsp80
+'Zorunlu ingilizce dersi için muafiyet sınavı hangi zaman aralığında?',rsp80
+'İngilizce dersi dersi muafiyet sınavı ne zaman?',rsp80
+'İngilizce dersi muafiyet sınavı hangi tarihte?',rsp80
+'İngilizce dersi muafiyet sınavı hangi dönemde?',rsp80
+'İngilizce dersi muafiyet sınavı hangi zaman aralığında?',rsp80
+'Yabancı uyruklu öğrenci harcı var mı?',rsp81
+'Yabancı uyruklu öğrenci harcı ödemem gerekiyor mu?',rsp81
+'Yabancı uyruklu öğrenci harç ücreti var mı?',rsp81
+'Yabancı uyruklu öğrenciler için harç ödemesi var mı?',rsp81
+'Yabancı uyruklu öğrenciler için harç ödemesi gerekiyor mu?',rsp81
+'Yabancı uyruklu öğrenciler için harç ödemesi lazım mı?',rsp81
+'Yabancı ülkeden öğrenci olarak geldim harç ödemesi var mı?',rsp81
+'Yabancı ülkeden öğrenci olarak geldim harç ödemesi gerekiyor mu?',rsp81
+'Yabancı ülkeden öğrenci olarak geldim harç ödemesi lazım mı?',rsp81
+'Yabancı ülkeden geldim harç ödemesi var mı?',rsp81
+'Yabancı ülkeden geldim harç ödemesi gerekiyor mu?',rsp81
+'Yabancı ülkeden geldim harç ödemesi lazım mı?',rsp81
+'Başka ülkeden geldim harç ödemesi var mı?',rsp81
+'Başka ülkeden geldim harç ödemesi gerekiyor mu?',rsp81
+'Başka ülkeden geldim harç ödemesi lazım mı?',rsp81
+'Başka ülkeden öğrenci olarak geldim harç ödemesi var mı?',rsp81
+'Başka ülkeden öğrenci olarak geldim harç ödemesi gerekiyor mu?',rsp81
+'Başka ülkeden öğrenci olarak geldim harç ödemesi lazım mı?',rsp81
+'Yurt dışından geldim harç ödemesi var mı?',rsp81
+'Yurt dışından geldim harç ödemesi gerekiyor mu?',rsp81
+'Yurt dışından geldim harç ödemesi lazım mı?',rsp81
+'Yurt dışından öğrenci olarak geldim harç ödemesi var mı?',rsp81
+'Yurt dışından öğrenci olarak geldim harç ödemesi gerekiyor mu?',rsp81
+'Yurt dışından öğrenci olarak geldim harç ödemesi lazım mı?',rsp81
+'Yabancı uyruklu öğrenci eğitim ücreti var mı?',rsp81
+'Yabancı uyruklu öğrenci eğitim ücreti gerekiyor mu?',rsp81
+'Yabancı uyruklu öğrenci eğitim ücreti var mı?',rsp81
+'Yabancı uyruklu öğrenciler için eğitim ücreti var mı?',rsp81
+'Yabancı uyruklu öğrenciler için eğitim ücreti gerekiyor mu?',rsp81
+'Yabancı uyruklu öğrenciler için eğitim ücreti lazım mı?',rsp81
+'Yabancı ülkeden öğrenci olarak geldim eğitim ücreti var mı?',rsp81
+'Yabancı ülkeden öğrenci olarak geldim eğitim ücreti gerekiyor mu?',rsp81
+'Yabancı ülkeden öğrenci olarak geldim eğitim ücreti lazım mı?',rsp81
+'Yabancı ülkeden geldim eğitim ücreti var mı?',rsp81
+'Yabancı ülkeden geldim eğitim ücreti gerekiyor mu?',rsp81
+'Yabancı ülkeden geldim eğitim ücreti lazım mı?',rsp81
+'Başka ülkeden geldim eğitim ücreti var mı?',rsp81
+'Başka ülkeden geldim eğitim ücreti gerekiyor mu?',rsp81
+'Başka ülkeden geldim eğitim ücreti lazım mı?',rsp81
+'Başka ülkeden öğrenci olarak geldim eğitim ücreti var mı?',rsp81
+'Başka ülkeden öğrenci olarak geldim eğitim ücreti gerekiyor mu?',rsp81
+'Başka ülkeden öğrenci olarak geldim eğitim ücreti lazım mı?',rsp81
+'Yurt dışından geldim eğitim ücreti var mı?',rsp81
+'Yurt dışından geldim eğitim ücreti gerekiyor mu?',rsp81
+'Yurt dışından geldim eğitim ücreti lazım mı?',rsp81
+'Yurt dışından öğrenci olarak geldim eğitim ücreti var mı?',rsp81
+'Yurt dışından öğrenci olarak geldim eğitim ücreti gerekiyor mu?',rsp81
+'Yurt dışından öğrenci olarak geldim eğitim ücreti lazım mı?',rsp81
+'Yabancı uyruklu öğrenci harcı ne kadar?',rsp82
+'Yabancı uyruklu öğrenci harç ödemesi ne kadar',rsp82
+'Yabancı uyruklu öğrenci harç ücreti ne kadar?',rsp82
+'Yabancı uyruklu öğrenciler için harç ödemesi ne kadar?',rsp82
+'Yabancı uyruklu öğrenciler için harç ödemesi ne kadar',rsp82
+'Yabancı uyruklu öğrenciler için harç ücreti ne kadar?',rsp82
+'Yabancı ülkeden öğrenci olarak geldim harcı ne kadar?',rsp82
+'Yabancı ülkeden öğrenci olarak geldim harç ödemesi ne kadar?',rsp82
+'Yabancı ülkeden öğrenci olarak geldim harç ücreti ne kadar?',rsp82
+'Yabancı ülkeden geldim harcı ne kadar?',rsp82
+'Yabancı ülkeden geldim harç ödemesi ne kadar?',rsp82
+'Yabancı ülkeden geldim harç ücreti ne kadar?',rsp82
+'Başka ülkeden geldim harcı ne kadar?',rsp82
+'Başka ülkeden geldim harç ödemesi ne kadar?',rsp82
+'Başka ülkeden geldim harç ücreti ne kadar?',rsp82
+'Başka ülkeden öğrenci olarak geldim harcı ne kadar?',rsp82
+'Başka ülkeden öğrenci olarak geldim harç ödemesi ne kadar?',rsp82
+'Başka ülkeden öğrenci olarak geldim harç ücreti ne kadar?',rsp82
+'Yurt dışından geldim harcı ne kadar?',rsp82
+'Yurt dışından geldim harç ödemesi ne kadar?',rsp82
+'Yurt dışından geldim harç ücreti ne kadar?',rsp82
+'Yurt dışından öğrenci olarak geldim harcı ne kadar?',rsp82
+'Yurt dışından öğrenci olarak geldim harç ödemesi ne kadar?',rsp82
+'Yurt dışından öğrenci olarak geldim harç ücreti ne kadar?',rsp82
+'Yabancı uyruklu öğrenci eğitim ücreti ne kadar?',rsp82
+'Yabancı uyruklu öğrenci eğitim ücreti ödemesi ne kadar?',rsp82
+'Yabancı uyruklu öğrenciler için eğitim ücreti ne kadar?',rsp82
+'Yabancı uyruklu öğrenciler için eğitim ücreti ödemesi ne kadar?',rsp82
+'Yabancı ülkeden öğrenci olarak geldim eğitim ücreti ne kadar?',rsp82
+'Yabancı ülkeden öğrenci olarak geldim eğitim ücreti ödemesi ne kadar?',rsp82
+'Yabancı ülkeden geldim eğitim ücreti ne kadar?',rsp82
+'Yabancı ülkeden geldim eğitim ücreti ödemesi ne kadar?',rsp82
+'Başka ülkeden geldim eğitim ücreti ne kadar?',rsp82
+'Başka ülkeden geldim eğitim ücreti ödemesi ne kadar?',rsp82
+'Başka ülkeden öğrenci olarak geldim eğitim ücreti ne kadar?',rsp82
+'Başka ülkeden öğrenci olarak geldim eğitim ücreti ödemesi ne kadar?',rsp82
+'Yurt dışından geldim eğitim ücreti ne kadar?',rsp82
+'Yurt dışından geldim eğitim ücreti ödemesi ne kadar?',rsp82
+'Yurt dışından öğrenci olarak geldim eğitim ücreti ne kadar?',rsp82
+'Yurt dışından öğrenci olarak geldim eğitim ücreti ödemesi ne kadar?',rsp82
+'3. sınıfta kaç bölüm dersi olur?',rsp83
+'3. sınıfta kaç tane bölüm dersi olur?',rsp83
+'3. sınıfta kaç tane bölüm dersi seçmeliyim?',rsp83
+'3. sınıfta kaç bölüm dersi seçmeliyim?',rsp83
+'3. sınıfta ne kadar bölüm dersi seçmeliyim?',rsp83
+'3. sınıfta kaç adet bölüm dersi seçmeliyim?',rsp83
+'3. sınıfta kaç bölüm dersi alınmalı?',rsp83
+'3. sınıfta kaç tane bölüm dersi alınmalı?',rsp83
+'3. sınıfta kaç tane bölüm dersi almalıyım?',rsp83
+'3. sınıfta kaç bölüm dersi almalıyım?',rsp83
+'3. sınıfta ne kadar bölüm dersi almalıyım?',rsp83
+'3. sınıfta kaç adet bölüm dersi almalıyım?',rsp83
+'3. sınıfta kaç alan dersi olur?',rsp83
+'3. sınıfta kaç tane alan dersi olur?',rsp83
+'3. sınıfta kaç tane alan dersi seçmeliyim?',rsp83
+'3. sınıfta kaç bölüm alan seçmeliyim?',rsp83
+'3. sınıfta ne kadar alan dersi seçmeliyim?',rsp83
+'3. sınıfta kaç adet alan dersi seçmeliyim?',rsp83
+'3. sınıfta kaç alan dersi alınmalı?',rsp83
+'3. sınıfta kaç tane alan dersi alınmalı?',rsp83
+'3. sınıfta kaç tane alan dersi almalıyım?',rsp83
+'3. sınıfta kaç alan dersi almalıyım?',rsp83
+'3. sınıfta ne kadar alan dersi almalıyım?',rsp83
+'3. sınıfta kaç adet alan dersi almalıyım?',rsp83
+'Spor salonunu kullanmak istiyorum',rsp84
+'Spor salonunu nasıl kullanırım?',rsp84
+'Spor salonunu kullanabilir miyim?',rsp84
+'Spor salonunu kullanmak için ne yapmalıyım?',rsp84
+'Spor salonunu kullanmak için ne yapmam lazım?',rsp84
+'Spor salonunu kullanmak için nereye müracaat etmeliyim?',rsp84
+'Spor salonunu kullanmak için bir yere başvurmam gerekiyor mu?',rsp84
+'Spor salonunu kullanmak için başvuruyu nereye yapmam gerekir?',rsp84
+'Dgs\'ye kaçıncı sınıftan başlanır?',rsp85
+'Dgs ile gelirsem kaçıncı sınıftan başlarım?',rsp85
+'Dgs ile okulunuza başvuru yaparsam kaçıncı sınıftan başlarım?'rsp85
+'Dgs ile gelirsem birinci sınıftan mı başlarım?',rsp85
+'Dgs kaydı ne zaman?',rsp86
+'Dgs kaydı ne zaman başlıyor?',rsp86
+'Dgs kaydı ne zaman bitiyor?',rsp86
+'Dgs ile okulunuzu kazandım kayıt tarihleri ne zaman?',rsp86
+'Dgs ile okulunuzu kazandım kayıt tarihleri hangi zamanda?',rsp86
+'Dgs\'li öğrenciler için kayıt tarihleri ne zaman?',rsp86
+'Dgs\'li öğrenciler için kayıt tarihleri hangi zamanda?',rsp86
+'Dgs\'li öğrenciler için kayıtlar hangi tarihte?',rsp86
+'Dgs\'li öğrenciler için kayıtlar hangi tarihte başlıyor?',rsp86
+'Dgs\'li öğrenciler için kayıtlar hangi tarihte bitiyor?',rsp86
+'Dgs ile gelen öğrenciler harç öder mi?',rsp87
+'Dgs ile gelen öğrenciler eğitim ücreti öder mi?',rsp87
+'Dgs\'liler harç öder mi?',rsp87
+'Dgs\'liler eğitim ücreti öder mi?',rsp87
+'Dgsli öğrenciler ne kadar harç öderler?'rsp87
+'Dgsli öğrenciler ne kadar eğitim ücreti öderler öderler?'rsp87
+'DGS kaydı için gerekli evraklar nelerdir',rsp88
+'DGS kaydı için hangi evraklar gerekir',rsp88
+'DGS kaydı için gerekli hangi evrakları temin etmeliyim',rsp88
+'DGS kaydı için ne lazım',rsp88
+'DGS kaydı için gerekli evraklar nelerdir',rsp88
+'DGS kaydı için almam gereken dosyalar nelerdir ',rsp88
+'DGS kaydı yapmak için gerekenler',rsp88
+'DGS kaydı yapmak istiyorum',rsp88
+'DGS kaydı gerekenler listesi',rsp88
+'DGS gereken evraklar',rsp88
+'yatay geçiş için gerekli evraklar nelerdir',rsp88
+'yatay geçiş için gerekli evraklar nelerdir',rsp88
+'yatay geçiş kaydı için gerekli belgeler nelerdir',rsp88
+'yatay geçiş için hangi dosyalar lazım',rsp88
+'Dikey geçis sınavı için yapmam gerekenler nedir',rsp88
+'Dikey geçiş sınavı kaydı nasıl olur',rsp88
+'Dikey geçiş sınavı gerekli evrak listesi lazım',rsp88
+'Dikey geçiş sınavı  için diplomadan başka ne gerekli',rsp88
+'Dikey geçiş sınavına kayıt için temin etmem gereken evraklar nelerdir',rsp88
+'DGS kaydı için diplomanın aslı mı gerekir'rsp89
+'DGS kaydı için diplomanın onaylanması mı gerekir'rsp89
+'DGS kaydı için diploma lazım mı'rsp89
+'DGS kaydı için diplomanın kopyası olur mu'rsp89
+'DGS kaydı için diploma gerekli mi'rsp89
+'Dikey geçiş sınavına kayıt için diploma olmasa olur mu'rsp89
+'Dikey geçiş sınavına kayıtta diploma şart mı'rsp89
+'seçmeli dersten başarısız oldum değiştirebilir miyim',rsp90
+'seçmeli dersten başarısız olunca başka ders seçebilir miyim',rsp90
+'seçmeli dersimi diğer yıl değiştirebilir miyim',rsp90
+'seçmeli dersten başarısız olunca aynı dersi almak zorunda mıyım',rsp90
+'proje hocamı nasıl değiştirebilirim',rsp91
+'proje hocamı değiştirmek için ne yapmalıyım',rsp91
+'başka proje hocası seçebilir miyim',rsp91
+'proje grubumu nasıl değiştirebilirim',rsp91
+'başka proje grubuna geçebilir miyim',rsp91
+'projede diğer gruplara kayıt olabilir miyim',rsp91
+'istediğim proje grubuna geçebilir miyim',rsp91
+'diğer proje gruplarına geçiş hakkım var mı',rsp91
+'bir arkadaşımla proje grubumuzu karşılıklı değiştirebilir miyiz',rsp91
+'başkasıyla proje grubumu anlaşmalı değişebilir miyim',rsp91
+'istediğim hocanın proje grubuna dahil olabilir miyim',rsp91
+'başka proje grubuna katılmam için ne yapmalıyım',rsp91
+'projeyi istediğim hocadan alabilir miyim',rsp91
+'projeyi değiştirmek için arkadaşımla anlaşmalı yer değişebilir miyiz',rsp91
+'arkadaşlarımın olduğu projeye dahil olabilir miyim',rsp91
+'projemi değiştirmek istiyorum. başkasıyla grupları değişebilir miyim',rsp91
+'proje grubumu değiştirmek için kimden onay almalıyım',rsp91
+'proje hocamı istediğim şekilde seçebilir miyim',rsp91
+'başka proje hocasının grubuna dahil olmak için ne gerekli',rsp91
+'proje için istediğim hocayı seçebilir miyim ',rsp91
+'diğer proje gruplarına geçmem mümkün mü',rsp91
+'OBS şifremi unuttum ne yapmalıyım',rsp92
+'OBS şifremi nasıl öğrenebilirim',rsp92
+'OBS şifremi hatırlamıyorum',rsp92
+'OBS şifremi nasıl temin edebilirim',rsp92
+'OBS şifremi öğrenmek istiyorum',rsp92
+'öğrenci bilgi şifremi anımsayamadım.nasıl değiştirebilirim',rsp92
+'öğrenci bilgi şifremi nerden bilebilirim',rsp92
+'öğrenci bilgi şifremi unutursam nasıl alabilirim',rsp92
+'öğrenci bilgi şifremi hatırlayamadım.öğrenebilir miyim',rsp92
+'OBS\'ye girmem gerek şifremi bilmiyorum',rsp92
+'OBS\'ye giremiyorum şifremi unuttum.yardımcı olabilir misiniz',rsp92
+'OBS\'ye giriş şifremi nerden alabilirim',rsp92
+'notlarıma nasıl bakabilirim obs şifremi hatırlamıyorum',rsp92
+'obs şifremi bilmiyorum notlarımı öğrenebilir miyim',rsp92
+'yemekhanede çıkan yemekler nelerdir',rsp93
+'yemekhanede neler var',rsp93
+'yemekhanede genelde hangi yemekler var',rsp93
+'yemek menüsünü öğrenebilir miyim',rsp93
+'yemek listesi var mı',rsp93
+'aylık yemek listesini istiyorum',rsp93
+'bugün yemekhanede hangi yemek var',rsp93
+'bugünkü yemek menüsü ne',rsp93
+'yemek ücreti ne kadar',rsp94
+'yemek paralı mı',rsp94
+'yemekhaneye giriş ücretli mi',rsp94
+'yemekhaneye ücretsiz girebilir miyim',rsp94
+'yemekhane de yemek için kaç para vermem gerekli',rsp94
+'yemekhane için vermem gereken miktar',rsp94
+'yemek için ücret miktarı kaç tl',rsp94
+'nasıl yatay geçiş yapabilirim',rsp95
+'yatay geçiş için gerekenler nedir',rsp95
+'yatay geçiş yapmak istiyorum nasıl yapabilirim',rsp95
+'kaç türlü yatay geçiş var',rsp95
+'yatay geçiş nasıl olur',rsp95
+'yatay geçiş hakkında bilgi alabilir miyim',rsp95
+'yatay geçiş imkanları nedir',rsp95
+'yatay geçişler nasıl yapılır',rsp95
+'merkezi puana göre yatay geçiş nedir',rsp96
+'merkezi puanlı yatay geçiş hangi puanla olur',rsp96
+'merkezi puana göre yatay geçiş hakkında bilgi ver',rsp96
+'merkezi puana göre yatay geçişte hangi puan önemli',rsp96
+'merkezi puana göre yatay geçiş puanı',rsp96
+'merkezi yatay geçiş puanı',rsp96
+'merkezi yerleştirme puanı ile yatay geçiş nedir ',rsp96
+'merkezi yerleştirme puanına göre yatay geçiş nasıl olur ',rsp96
+'kurumlar arası yatay geçiş nedir',rsp97
+'kurumlar arası yatay geçişte ne önemli',rsp97
+'kurumlar arası yatay geçiş hakkında bilgi verebilir misin',rsp97
+'üniversiteler arası yatay geçiş nasıl oluyor',rsp97
+'üniversiteler arası yatay geçiş neye göre yapılır',rsp97
+'üniversite arası yatay geçişte gerekenler ',rsp97
+'yurtdışından yatay geçiş nasıl yapılır',rsp98
+'yurtdışından yatay geçiş yapmak için gerekenler nedir',rsp98
+'yurtdışından yatay geçiş yapmak istiyorum ne yapmam lazım',rsp98
+'yurtdışı yatay geçişi için gerekenler',rsp98
+'yurtdışından yatay geçişte ne aranır',rsp98
+'yurtdışından yatay geçiş başvurusu için neye bakılır',rsp98
+'yurtdışından yatay geçiş nasıl olur',rsp98
+'yurtdışından yatay geçiş başvurusu yapabilir miyim',rsp98
+'yurtdışı yatay geçiş başvurusu hakkında bilgi alabilir miyim',rsp98
+'yurtdışından yatay geçişte başvuru hakkım var mı',rsp98
+'yurtdışından yatay geçiş yapabilir miyim ',rsp98
+'yurtdışından yatay geçiş ile bölüm değiştirmek için başvuru yapabilir miyim ',rsp98
+'yatay geçiş ne zaman yapılır',rsp99
+'yatay geçiş tarihleri hakkında bilgi verebilir misin',rsp99
+'yatay geçiş tarihi en son ne zaman',rsp99
+'yatay geçiş zamanı nedir',rsp99
+'yatay geçiş hangi tarihler arasında yapılır',rsp99
+'merkezi puana göre yatay geçişi hangi tarihlerde yapabilirim',rsp99
+'yatay geçiş başvuru tarihi hangi günler arasında yapılır',rsp99
+'yatay geçiş hangi tarihlerde olur',rsp99
+'yatay geçiş hangi ayda yapılır',rsp99
+'kurumlar arası geçiş tarihi ne zaman',rsp100
+'kurumlar arası geçiş tarihini öğrenebilir miyim',rsp100
+'kurumlar arası geçiş ne zaman yapılır',rsp100
+'kurumlar arası geçiş hangi tarihler arasında yapılır',rsp100
+'kurumlar arası geçiş zamanı',rsp100
+'kurumlar arası geçiş hakkı hangi tarihe kadar',rsp100
+'kurumlar arası geçiş tarihleri bilgisini öğrenebilir miyim',rsp100
+'yatay geçişte kaçıncı sınıftan başlarım',rsp101
+'yatay geçişte kaldığım yerden devam eder miyim',rsp101
+'yatay geçişte hangi sınıftan başlarım',rsp101
+'yatay geçişte aynı sınıftan devam edebilir miyim',rsp101
+'yatay geçiş yaparsam hangi sınıftan başlarım',rsp101
+'yatay geçiş yaptığımda sınıfım nasıl belli olur',rsp101
+'yatay geçiş yaptığımda sınıfım değişir mi',rsp101
+'yatay geçiş yaparsam aynı yıldan devam eder miyim',rsp101
+'yatay geçişte sınıf nasıl belirlenir',rsp101
+'yatay geçişte sınıfım kaç olur',rsp101
+'yatay geçişle kaçıncı sınıf olurum',rsp101
+'yatay geçiş yaptığımda hangi sınıftan devam ederim',rsp101
+'yatay geçişte yıl kaybeder miyim ',rsp101
+'yatay geçişte kaçıncı sınıftan başlarım',rsp101
+'Staj türleri nelerdir ?',rsp103
+'Hangi tür staj yapabilirim ?',rsp103
+'hangi türlerde staj yapabilirim?',rsp103
+'hangi tür staj var ?',rsp103
+'hangi konuda staj yapabilirim?',rsp103
+'hangi konularda staj var ?',rsp103
+'hangi tarz staj yapabilirim?',rsp103
+'hangi tarz stajlar var ?',rsp103
+'hangi stajlar var ?',rsp103
+'hangi alanda staj yapabilirim?',rsp103
+'hangi alanda staj var ?',rsp103
+'ne tür staj yapabilirim ?',rsp103
+'ne tür stajlar var ?',rsp103
+'ne konu da stajlar var ?',rsp103
+'ne türlerde staj yapabilirim?',rsp103
+'ne konularda staj var ?',rsp103
+'ne tarz stajlar var ?',rsp103
+'ne stajları var ?',rsp103
+'kaç tür staj var ?',rsp103
+'kaç tane staj türü var ?',rsp103
+'kaç tarz staj yapabilirim?',rsp103
+'kaç tarz staj var ?',rsp103
+'staj türü var mı ?',rsp103
+'Stajların türü nelerdir ?',rsp103
+'staj türleri var mı ?',rsp103
+'stajımı hangi alanda yapabilirim?',rsp103
+'nasıl stajlar var ?',rsp103
+'nasıl alanlarda staj yapabilirim?',rsp103
+'staj süresi ne kadardır',rsp104
+'Ne kadar gün staj yapmam lazım ?',rsp104
+'Ne kadar staj yapabilirim ?',rsp104
+'ne kadar süre staj yapmalıyım ?',rsp104
+'ne kadar saat staj yapmam gerekiyor ?',rsp104
+'kaç gün staj yapmalıyım ?',rsp104
+'kaç gün staj zorunlu ?',rsp104
+'kaç saat staj yapmalıyım ?',rsp104
+'kaç hafta staj yapmalıyım ?',rsp104
+'kaç saat staj yapmalıyım ?',rsp104
+'kaç ay staj yapmalıyım ?',rsp104
+'staj süresi önemli mi ?',rsp104
+'staj süresi kaç gün ?',rsp104
+'staj süresi kaç saat olmalı?',rsp104
+'staj süresi var mı ?',rsp104
+'staj kaç gün olmalı ?',rsp104
+'staj da kaç saat doldurmalıyım ?',rsp104
+'staj kaç hafta olmalıdır',rsp104
+'staj kaç ay olmalıdır ?',rsp104
+'staj süresi kaç gün olmalı ?',rsp104
+'staj ne kadar yapmam lazım ?',rsp104
+'staj belli bir süre sürmeli mi ?',rsp104
+'önlisans mezunları için staj muafiyeti ne kadardır ',rsp105
+'önlisans mezunları için staj muafiyeti kaç gündür ?',rsp105
+'önlisans mezunlarına staj muafiyeti var mı ?',rsp105
+'önlisans mezunları staj muafiyetinden yararlanabiliyor mu ?',rsp105
+'önlisans mezununa staj muafiyeti kaç iş günüdür',rsp105
+'önlisans mezunları için staj muafiyeti ne kadar süredir ?',rsp105
+'önlisans mezunları için kaç saat staj muafiyeti var ?',rsp105
+'önlisans mezunları kaç gün staj muafiyet vardır ?',rsp105
+'önlisans mezunları ne kadar süre staj muafiyeti var ?',rsp105
+'önlisans mezunları ne kadar gün staj muafiyeti var ?',rsp105
+'önlisans mezunları ne kadar staj muafiyeti var ?',rsp105
+'önlisans mezunları staj muafiyeti kaçtır ?',rsp105
+'önlisans mezunları stajdan muaf mıdır ?',rsp105
+'önlisans mezunları stajdan ne kadar muaftır ?',rsp105
+'önlisans mezunları stajdan kaç gün muaftır ?',rsp105
+'önlisans mezunları stajdan muaf mıdır ?',rsp105
+'önlisans mezunlarına staj muafiyeti kaç gündür ?',rsp105
+'önlisanstan gelene staj muafiyeti kaç gündür ?',rsp105
+'önlisanstan gelene staj muafiyeti var mı ?',rsp105
+'önlisanstan gelene staj muafiyetinden yararlanabiliyor mu ?',rsp105
+'önlisanstan gelene staj muafiyeti kaç iş günüdür',rsp105
+'önlisanstan gelene için staj muafiyeti ne kadar süredir ?',rsp105
+'önlisanstan gelene kaç saat staj muafiyeti var ?',rsp105
+'önlisanstan gelene kaç gün staj muafiyet vardır ?',rsp105
+'önlisanstan gelene ne kadar süre staj muafiyeti var ?',rsp105
+'önlisanstan gelene ne kadar gün staj muafiyeti var ?',rsp105
+'önlisanstan gelene ne kadar staj muafiyeti var ?',rsp105
+'önlisanstan gelen için staj muafiyeti kaçtır ?',rsp105
+'önlisanstan gelen stajdan muaf mıdır ?',rsp105
+'önlisanstan gelen stajdan ne kadar muaftır ?',rsp105
+'önlisanstan gelen stajdan kaç gün muaftır ?',rsp105
+'önlisanstan gelen stajdan muaf mıdır ?',rsp105
+'önlisanstan gelene staj muafiyeti kaç gündür ?',rsp105
+'Yurt dışında staj yapabilir miyim ?',rsp106
+'Yurt dışında staj var mı ?',rsp106
+'Yurt dışında staj yapılıyor mu ?',rsp106
+'Yurt dışında staj oluyor mu ?',rsp106
+'Yurt Dışında staj yapmak mümkün mü ?',rsp106
+'Başka ülkede staj yapabilir miyim ?',rsp106
+'Başka ülkede staj var mı ?',rsp106
+'Başka ülkede staj yapılıyor mu ?',rsp106
+'Başka ülkede staj oluyor mu ?',rsp106
+'Başka ülkede staj yapmak mümkün mü ?',rsp106
+'Ülke dışında staj yapabilir miyim ?',rsp106
+'Ülke dışında staj var mı ?',rsp106
+'Ülke dışında staj yapılıyor mu ?',rsp106
+'ülke dışında staj oluyor mu ?',rsp106
+'ülke dışında staj yapmak mümkün mü ?',rsp106
+'Yabancı ülkede staj yapabilir miyim ?',rsp106
+'Yabancı ülkede staj var mı ?',rsp106
+'Yabancı ülkede staj yapılıyor mu ?',rsp106
+'Yabancı ülkede staj oluyor mu ?',rsp106
+'Türkiye dışında staj yapmak mümkün mü ?',rsp106
+'Türkiye dışında staj yapabilir miyim ?',rsp106
+'Türkiye dışında staj var mı ?',rsp106
+'Türkiye dışında staj yapılıyor mu ?',rsp106
+'Türkiye dışında staj oluyor mu ?',rsp106
+'Türkiye dışında staj yapmak mümkün mü ?',rsp106
+'Yurt dışında staja başvurmak için ne yapmalıyım',rsp107
+'Yurt dışında staj için hangi belgeler gerekli ?',rsp107
+'Yurt dışında staj için ne tür belgeler gerekir ?',rsp107
+'Yurt dışında staja nasıl giderim ?',rsp107
+'Yurt dışında staj yapmak için neyle başvuru yapabilirim ?',rsp107
+'Yurt dışında staj yapmak için ne yapmalıyım ?',rsp107
+'Yurt dışında staj nasıl yaparım ?',rsp107
+'Başka ülkede staj için hangi belgeler gerekli ?',rsp107
+'Başka ülkede staj için ne tür belgeler gerekir ?',rsp107
+'Başka ülkede staj yapmak için neyle başvuru yapabilirim ?',rsp107
+'Başka ülkede  staja nasıl giderim ?',rsp107
+'Başka ülkede staj yapmak için ne yapmalıyım ?',rsp107
+'Başka ülkede staj nasıl yaparım ?',rsp107
+'Başka ülkede staja başvurmak için ne yapmalıyım ?',rsp107
+'ülke dışında staj için hangi belgeler gerekli ?',rsp107
+'ülke dışında staj yapmak için neyle başvuru yapabilirim ?',rsp107
+'ülke dışında staj için ne tür belgeler gerekir ?',rsp107
+'ülke dışında staja nasıl giderim ?',rsp107
+'ülke dışında staj yapmak için ne yapmalıyım ?',rsp107
+'ülke dışında staj nasıl yaparım ?',rsp107
+'ülke dışında staja başvurmak için ne yapmalıyım ?',rsp107
+'Yabancı ülkede staj için hangi belgeler gerekli ?',rsp107
+'Yabancı ülkede staj için ne tür belgeler gerekir ?',rsp107
+'Yabancı ülkede staja nasıl giderim ?',rsp107
+'Yabancı ülkede yapmak için neyle başvuru yapabilirim ?',rsp107
+'Yabancı ülkede staj yapmak için ne yapmalıyım ?',rsp107
+'Yabancı ülkede staj nasıl yaparım ?',rsp107
+'Yabancı ülkede staj yapmak için ne yapmalıyım ?',rsp107
+'erasmus stajı yapabilir miyim',rsp108
+'Erasmus stajı var mı ?',rsp108
+'Erasmus stajına gidebilir miyim ?',rsp108
+'Erasmus stajı oluyor mu ?',rsp108
+'Erasmus stajına basvurabilir miyim ?',rsp108
+'Erasmus stajına gitmek mümkün mü ?',rsp108
+'Erasmus stajı için ne yapmalıyım ?',rsp109
+'Erasmus stajına nasıl başvururum ?',rsp109
+'Erasmus stajına başvurmak için ne yapmalıyım ?',rsp109
+'Erasmus stajını nasıl yapabilirim ?',rsp109
+'Erasmus stajı nasıl yapabilirim ?',rsp109
+'Erasmus stajı için bir şey yapmalımıyım ?',rsp109
+'Erasmus stajına gitmek istiyorum.',rsp109
+'Erasmus stajına nasıl giderim ?',rsp109
+'Erasmus stajına hangi yolla giderim ?',rsp109
+'Erasmus stajına gitmek için ne yapmalıyım ?',rsp109
+'Erasmus stajına ne yolla gidebilirim ?',rsp109
+'Erasmus stajına başvurmak için ortalamam kaç olması gerekiyor ?',rsp109
+'Erasmus stajı için ortalama kaç olmalıdır ?',rsp109
+'Erasmus stajı için ortalama gerekiyor mu ?',rsp109
+'Erasmus stajı için ne gerekiyor ?',rsp109
+'Erasmus stajı için bir şey gerekiyor mu ?',rsp109
+'Erasmus stajı için ne tür şeyler gerekiyor ?',rsp109
+'Erasmus stajı için ne yapabilirim ?',rsp109
+'Erasmus stajına gitmek için ne gerekiyor ?',rsp109
+'tek ders sınavına nasıl girebilirim',rsp110
+'Tek ders sınavına girebilir miyim ?',rsp110
+'Tek ders sınavına girmek için ne yapmalıyım ?',rsp110
+'Tek ders sınavına girmek istiyorum.',rsp110
+'Tek ders sınavına girmek için ne gerekiyor ?',rsp110
+'Tek ders sınavına girmek için neler gerekiyor ?',rsp110
+'Tek ders sınavına nasıl başvurabilirim ?',rsp110
+'Tek ders sınavına başvurmak için ne yapabilirim ?',rsp110
+'Tek ders sınavına başvurmak için ne gerekiyor ?',rsp110
+'Tek ders sınavına nasıl girilir ?',rsp110
+'Tek dersim kaldı ne yapabilirim ?',rsp110
+'Tek dersim var ne yapabilirim ?',rsp110
+'Tek ders sınavına girmek mümkün mü ?',rsp110
+'Tek ders sınavına girmek için gereken bir şey var mı ?',rsp110
+'Tek ders sınavına hangi yolla girebilirim ?',rsp110
+'Tek ders sınavına hangi yolla başvurabilirim ?',rsp110
+'Tek ders sınavına neyle başvurabilirim ?',rsp110
+'iki dersim kaldı tek ders sınavına girebilir miyim',rsp111
+'Birden fazla dersim kaldı tek ders sınavına girebilir miyim ?',rsp111
+'iki dersten fazla dersim var tek ders sınavına girebilir miyim ?',rsp111
+'2 dersten fazla dersim var tek ders sınavına girebilir miyim ?',rsp111
+'2 dersim kaldı tek ders sınavına girebilir miyim',rsp111
+'üç dersim kaldı tek ders sınavına girebilir miyim',rsp111
+'üç dersten fazla dersim var tek ders sınavına girebilir miyim ?',rsp111
+'3 dersten fazla dersim var tek ders sınavına girebilir miyim ?',rsp111
+'3 dersim kaldı tek ders sınavına girebilir miyim',rsp111
+'dört dersim kaldı tek ders sınavına girebilir miyim',rsp111
+'dört dersten fazla dersim var tek ders sınavına girebilir miyim ?',rsp111
+'4 dersten fazla dersim var tek ders sınavına girebilir miyim ?',rsp111
+'4 dersim kaldı tek ders sınavına girebilir miyim',rsp111
+'çok dersim var tek ders sınavına girebilir miyim ?',rsp111
+'Fazla dersim var yinede tek ders sınavına girebilir miyim ?',rsp111
+'tek ders sınavından başarısız oldum tekrar girebilir miyim',rsp112
+'Tek ders sınavından kaldım tekrar girebilir miyim ?',rsp112
+'Tek ders sınavını geçemedim tekrar girebilir miyim ?',rsp112
+'Tek ders sınavında maalesef kaldım ne yapabilirim',rsp112
+'Tek ders sınavından kaldım ne yapabilirim ?',rsp112
+'Tek ders sınavında başarısız oldum ne yapabilirim ?',rsp112
+'Tek ders sınavında çuvalladım tekrar girebilir miyim ?',rsp112
+'Tek ders sınavında çuvalladım ne yapabilirim ?',rsp112
+'Tek ders sınavını veremedim ne yapabilirim ?',rsp112
+'Tek ders sınavını veremedim tekrar girebilir miyim ?',rsp112
+'Tek ders sınavında yapamadım tekrar girebilir miyim ?',rsp112
+'Tek ders sınavında yapamadım ne yapabilirim ?',rsp112
+'tek ders sınavına harç öder miyim',rsp113
+'Tek ders sınavı için harç vermeli miyim ?',rsp113
+'Tek ders sınavı için harç vermem gerekiyor mu ?',rsp113
+'Tek ders sınavı için harç ödemem gerekiyor mu ?',rsp113
+'Tek ders sınavı için harç yatırmalı mıyım ?',rsp113
+'Tek ders sınavı için harç yatırmam gerekiyor mu ?',rsp113
+'Tek ders sınavı için para vermeli miyim ?',rsp113
+'Tek ders sınavı için para verir miyim ?',rsp113
+'Tek ders sınavı için para vermem gerekiyor mu ?',rsp113
+'Tek ders sınavı için para ödemem gerekiyor mu ?',rsp113
+'Tek ders sınavı için para ödemeli miyim ?',rsp113
+'Tek ders sınavı için para yatırmalı mıyım ?',rsp113
+'Tek ders sınavı için para yatırmam gerekiyor mu ?',rsp113
+'Tek ders sınavı için ücret ödemem gerekiyor mu ?',rsp113
+'Tek ders sınavı için ücret ödemeli miyim ?',rsp113
+'Tek ders sınavı için ücret vermeli miyim ?',rsp113
+'Tek ders sınavı için ücret vermem gerekiyor mu ?',rsp113
+'Tek ders sınavı icin ücret yatırmalı mıyım ?',rsp113
+'Tek ders sınavı için ücret yatırmam gerekiyor mu ?',rsp113
+'Tek ders sınavı için ne kadar vermeliyim ?',rsp113
+'Tek ders sınavı için ne kadar vermem gerekiyor ?',rsp113
+'Tek ders sınavı için ne kadar ödemem gerekiyor ?,'rsp113
+'Tek ders sınavı için ne kadar ödemeliyim ?',rsp113
+'Tek ders sınavı için ne kadar yatırmalıyım ?',rsp113
+'Tek ders sınavı için ne kadar yatırmam gerekiyor ?',rsp113
+'devamsızlıktan kaldığım dersin tek ders sınavına girebilir miyim',rsp115
+'Devamsızlıktan kaldım tek ders sınavına girmek istiyorum ',rsp115
+'Devamsızlıktan kaldım tek ders sınavına girmek için ne yapabilirim ?',rsp115
+'Devamsızlıktan hoca bıraktı tek ders sınavına girebilir miyim ?',rsp115
+'Devamsızlıktan hoca bıraktı tek ders sınavına girmek için ne yapabilirim ?',rsp115
+'DZ ile dersten kaldım tek ders sınavına girmek için ne yapabilirim ?',rsp115
+'DZ ile kaldım tek ders sınavına girebilir miyim ?',rsp115
+'DZ ile kaldım tek ders sınavına girmek istiyorum.',rsp115
+'DZ ile hoca bıraktı tek ders sınavına girebilir miyim ?',rsp115
+'DZ ile hoca bıraktı ama tek ders sınavına girmek istiyorum',rsp115
+'DZ ile kaldığım dersin tek ders sınavına girebilir miyim ?',rsp115
+'DZ ile kaldım tek ders sınavına başvurabilir miyim ?',rsp115
+'DZ ile hoca bıraktı tek ders sınavına başvurabilir miyim ?',rsp115
+'DZ ile kaldım tek ders sınavına katılabilir miyim ?',rsp115
+'DZ ile kaldım tek ders sınavı olabilir miyim ?',rsp115
+'DZ ile hoca bıraktı tek ders sınavı olabilir miyim ?',rsp115
+'Devamsızlıktan hoca bıraktı tek ders sınavı olabilir miyim ?',rsp115
+'Devamsızlıktan kaldım tek ders sınavı olabilir miyim ?',rsp115
+'Devamsızlıktan kaldım tek ders sınavına katılabilir miyim ?',rsp115
+'Devamsızlıktan dersten kaldım tek ders sınavı için ne yapmam lazım ?',rsp115
+'Devamsızlıktan kaldım tek ders sınavına başvurabilir miyim ?',rsp115
+'Devamsızlıktan hoca bıraktı tek ders sınavına başvurabilir miyim ?',rsp115
+'sınıf tekrarı var mı',rsp116
+'Sınıf tekrarı oluyor mu ?',rsp116
+'Sınıf tekrarı diye bir şey var mı ?',rsp116
+'Sınıfta kaldım sınıf tekrarı yapmam gerekiyor mu ?',rsp116
+'Dersten kaldım sınıf tekrarı diye bir şey var mı ?',rsp116
+'Dersten kaldım sınıf tekrarı yapmalı mıyım ?',rsp116
+'Dersten kaldım sınıf tekrarı oluyor mu ?',rsp116
+'Sınıf tekrarı yapılıyor mu ?',rsp116
+'Sınıf tekrarı yapmak istemiyorum ',rsp116
+'Sınıf tekrarı nasıl oluyor ?',rsp116
+'Sınıf tekrarı neden oluyor ?',rsp116
+'sınıfta kaldım tekrar aynı sınıfı okumam gerekiyor mu ?',rsp116
+'Dersten kaldım tekrar aynı sınıfı okumam gerekiyor mu ?',rsp116
+'Eğitim sürem en fazla ne kadar ?',rsp117
+'En fazla Ne kadar okuyabilirim ?',rsp117
+'En fazla kaç yıl okuyabilirim ?',rsp117
+'en fazla kaç dönem okulum uzayabilir ?',rsp117
+'en fazla kaç sene okuyabilirim ?',rsp117
+'okulum kaç sene uzayabilir ?',rsp117
+'Eğitim sürem kaç yıl ?',rsp117
+'okulu en fazla kaç sene uzatabiliyorum ?',rsp117
+'okulu en fazla kaç yıl uzatabilirim ?',rsp117
+'okulu kaç yıl uzatabilirim ?',rsp117
+'okulu kaç sene uzatabilirim ?',rsp117
+'okulu en fazla kaç dönem uzatabilirim?',rsp117
+'okulu en fazla kaç dönem devam edebilirim ?',rsp117
+'okulu kaç dönem uzatabilirim ?',rsp117
+'okulu en fazla kaç sene okuyabilirim ?',rsp117
+'Eğitim sürem kaç senedir ?',rsp117
+'okulu en fazla kaç yıl okuyabilirim ?',rsp117
+'okul için maksimum eğitim süresi kaçtır ?',rsp117
+'okul için maksimum kaç sene okuyabilirim ?',rsp117
+'okul için maksimum kaç yıl okuuabilirim ?',rsp117
+'Üniversiteyi en fazla kaç yıl okuyabilirim ?',rsp117
+'Üniversiteyi için maksimum eğitim süresi kaçtır ?',rsp117
+'Üniversiteyi için maksimum kaç sene okuyabilirim ?',rsp117
+'Üniversiteyi için maksimum kaç yıl okuuabilirim ?',rsp117
+'Üniversiteyi en fazla kaç sene uzatabiliyorum ?',rsp117
+'Üniversiteyi en fazla kaç yıl uzatabilirim ?',rsp117
+'Üniversiteyi kaç yıl uzatabilirim ?',rsp117
+'Üniversiteyi kaç sene uzatabilirim ?',rsp117
+'Üniversiteyi en fazla kaç dönem uzatabilirim?',rsp117
+'Üniversiteyi en fazla kaç dönem devam edebilirim ?',rsp117
+'Üniversiteyi kaç dönem uzatabilirim ?',rsp117
+'Üniversiteyi en fazla kaç sene okuyabilirim ?',rsp117
+'Toplam eğitim süresi kaç yıl ?',rsp117
+'Toplam eğitim süresi kaç sene ?',rsp117
+'Toplam eğitim süresi kaç dönem ?',rsp117
+'Toplam ne kadar okul uzayabilir ?',rsp117
+'Toplam ne kadar üniversite uzayabilir ?',rsp117
+'kaç dönem kayıt dondurabilirim',rsp118
+'Kaç dönem okulu dondurabilirim ?',rsp118
+'Kaç dönem üniversiteyi dondurabilirim ?',rsp118
+'en fazla ne kadar okulu dondurabilirim ?',rsp118
+'en fazla ne kadar üniversiteyi dondurabilirim ?',rsp118
+'en fazla ne kadar kayıt dondurabilirim ?',rsp118
+'en fazla kaç yıl üniversiteyi dondurabilirim ?',rsp118
+'en fazla kaç yıl okulu dondurabilirim ?',rsp118
+'en fazla kaç yıl kayıt dondurabilirim ?',rsp118
+'en fazla kaç sene okulu dondurabilirim ?',rsp118
+'en fazla kaç sene üniversiteyi dondurabilirim ?',rsp118
+'en fazla kaç sene kayıt dondurabilirim ?',rsp118
+'en fazla kaç dönem okulu dondurabilirim ?',rsp118
+'en fazla kaç dönem üniversiteyi dondurabilirim ?',rsp118
+'en fazla kaç dönem kayıt dondurabilirim ?',rsp118
+'kaç yıl okulu dondurabilirim ?',rsp118
+'kaç yıl kayıt dondurabilirim ?',rsp118
+'kaç yıl üniversiteyi dondurabilirim ?',rsp118
+'kaç sene okulu dondurabilirim ?',rsp118
+'kaç sene kayıt dondurabilirim ?',rsp118
+'kaç sene üniversiteyi dondurabilirim ?',rsp118
+'Sınav itirazının son tarihi ne zaman?',rsp30
+'Sınav itirazımın son tarihi ne zaman?',rsp30
+'Sınav itirazının son tarihleri ne zaman?',rsp30
+'Sınav itirazının son tarihi ne zamandır?',rsp30
+'Sınav itirazımın son tarihi ne zamandı?',rsp30
+'Sınav itirazımın son tarihi ne zamandır?',rsp30
+'Vize sınavımın itirazını ne zaman yapabilirim?',rsp30
+'Final sınavımın itirazını ne zaman yapabilirim?',rsp30
+'Bütünleme sınavımın itirazını ne zaman yapabilirim?',rsp30
+'Vize sınavımın itirazını nasıl yapabilirim?',rsp30
+'Final sınavımın itirazını nasıl yapabilirim?',rsp30
+'Bütünleme sınavımın itirazını nasıl yapabilirim?',rsp30
+'Devam alıp başarısız olduğum derse girmem zorunlu mu?',rsp31
+'Devam alıp başarısız oldugum derse girmem zorunlu mu?',rsp31
+'Devam alıp başarısız olduğum ders\'e girmeme gerek var mı?',rsp31
+'Devam aldıp kaldığım derse illaki girmek mi zorundayım?',rsp31
+'Devamsızlık yapmadığım dersten kaldıktan sonra derse girmeme gerek var mı?',rsp31
+'Devamsızlık yapmadığım dersten kaldıktan sonra derse girmem lazım mı?',rsp31
+'Devamsızlıktan kalmadığım derse girmeme gerek var mı?',rsp31
+'Devamsızlıktan kalmadığım derse girmem lazım mı?',rsp31
+'Devamsızlıktan kalmadığım derse illa girmeme gerek varmı?',rsp31
+'Devamsızlık yapmadığım derse girmem zorunlu mu?',rsp31
+'Devamsızlık yapmadığım derse girmem zorunlu mu gerçekten?',rsp31
+'Dersten kaldım fakat devamsızlıktan kalmadım derse girmem lazım mı?',rsp31
+'Devamsızlık yapmadığım derse illede girmem mi lazım?',rsp31
+'Devam zorunlu olmadığım derse girmeme gerek varmı?',rsp31
+'Devamsızlıktan kaldığım derslere diğer dönem girmek zorunda mıyım?',rsp32
+'Devamsızlıktan kaldıgım derslere diğer dönem girmek zorunda mıyım?',rsp32
+'Devamsızlıktan kaldığım derse girmeme gerek varmı?',rsp32
+'Devamsızlıktan kaldığım ders için illa okula gitmeme gerek var mı?',rsp32
+'Devamsızlıktan kaldığım ders için okula gitmeme gerek varmı?',rsp32
+'Devamsızlıktan kaldığım derse zorunlu girmek zorunda mıyım?',rsp32
+'Devamsızlıktan kaldım okula gitmeme gerek varmı?',rsp32
+'Devamsızlıktan kaldım sadece derse girmeme gerek varmı?',rsp32
+'Devamsızlıktan kaldım sırf o yüzden derse gitmeme gerek varmı?',rsp32
+'Devamsızlık yaptığım derse girmeme gerek varmı?',rsp32
+'Devamsızlık yaptığım ders için okula gitmeme gerek varmı?',rsp32
+'Devamsızlık yaptığım ders için boş yere derse girmeme gerek varmı?',rsp32
+'Alttan başarısız olduğum dersi kesebilir miyim?',rsp33
+'Alttan başarısız olduğum dersi kesebiliyor muyum?',rsp33
+'Alttan kaldığım dersi kesebiliyor muyum?',rsp33
+'Alttan kaldığım dersi kesebiliyo muyum?',rsp33
+'Alttan başarısız dersimi kesebiliyor muyum?',rsp33
+'Alttan başarısız dersimi kesebiliyo muyum?',rsp33
+'Alttan kaldığım ders i kesebiliyor muyum?',rsp33
+'Alttan kaldığım ders i kesebiliyo muyum?',rsp33
+'Kestiğim dersi yaz okulunda alabilir miyim'rsp34
+'Kestiğim dersi yaz okulunda alabiliyor muyum?',rsp34
+'Kestiğim dersi yaz okulunda alma şansım var mı?',rsp34
+'Kestiğim dersi yaz okulunda almak istiyorum alabiliyor muyum?',rsp34
+'Kestiğim dersi yaz okulunda alma şansım var mı?',rsp34
+'Kesmiş olduğum dersi yaz okulunda alma şansım var mı?',rsp34
+'Kestirdiğim dersi yaz okulunda alma şansım var mı?',rsp34
+'Kestiğim dersimi yaz okulunda alabiliyor muyum?',rsp34
+'Kestiğim dersimi yaz okulunda alabiliyo muyum?',rsp34
+'Kesmiş olduğum dersimi yaz okulunda alabiliyor muyum?',rsp34
+'Kesmis oldugum dersimi yaz okulunda alabiliyor muyum?',rsp34
+'Kesmis olduğum dersimi yaz okulunda alabiliyor muyum?',rsp34
+'Kestiğim dersi yaz okulunda alma gibi bir şansım var mı gerçekten?',rsp34
+'Kesmiş olduğum dersi yaz okulunda alma gibi bir şansım var mı?',rsp34
+'Kesmiş olduğum dersi yaz okulunda alma gibi bir şansım var mı gerçekten?',rsp34
+'Üstten dersi yaz okulunda alabilir miyim?',rsp35
+'Üstten dersi yaz okulunda alabiliyo muyum',rsp35
+'Üstten dersi yaz okulunda alabiliyor muyum',rsp35
+'Üstten dersimi yaz okulunda alabiliyor muyum',rsp35
+'Üstten dersimi yaz okulunda alabiliyo muyum',rsp35
+'Üstten dersi yaz okulumda alabiliyo muyum',rsp35
+'Üstten dersimi yaz okulumda alabiliyo muyum',rsp35
+'Üstten dersimi yaz okulumda alabiliyor muyum',rsp35
+'Üstten dersi yaz okulumda alabiliyor muyum',rsp35
+'Alttan dersim yok üstten dersi yaz okulunda alabiliyo muyum?',rsp35
+'Alttan dersim yok üstten dersi yaz okulumda alabiliyo muyum?',rsp35
+'Alttan dersim yok üstten dersimi yaz okulunda alabiliyo muyum?',rsp35
+'Alttan dersim yok üstten dersimi yaz okulumda alabiliyo muyum?',rsp35
+'Alttan dersim yok üstten dersimi yaz okulumda alabiliyo muyum?',rsp35
+'Alttan dersim yok üstten dersimi yaz okulunda alabiliyor muyum?',rsp35
+'Yaz okulu için üstten ders alabiliyor muyum?',rsp35
+'Yaz okulu için üstten ders alabiliyo muyum?',rsp35
+'Yaz okulum için üstten ders alabiliyor muyum?',rsp35
+'Yaz okulum için üstten ders alabiliyo muyum?',rsp35
+'Üstten ders almak istiyorum. Yaz okulunda alabiliyor muyum?',rsp35
+'Üstten ders almak istiyorum. Yaz okulunda alabiliyo muyum?',rsp35
+'Üstten ders almak istiyorum. Yaz okulumda alabiliyor muyum?',rsp35
+'Üstten ders almak istiyorum. Yaz okulumda alabiliyo muyum?',rsp35
+'Bölümün ilk 3’ü nasıl belirlenir',rsp36
+'Bölümün ilk üçü nasıl belirlenir',rsp36
+'Bölümün ilk üç\'ü nasıl belirlenir',rsp36
+'Bölümün başarı sırası nasıl belirlenir',rsp36
+'Sınıfın başarısı ya da bölümün başarısı nasıl belirlenir?',rsp36
+'Bölümün başarısı neye göre belirlenir?',rsp36
+'Okuduğum bölümde ilk üç sıra nasıl belirlenir',rsp36
+'Bölümümde ilk 3(üç) sıra nasıl belirleniyor?',rsp36
+'Çakışan derslerimde şube değişikliği yapabilir miyim?',rsp37
+'Çakışan derslerimde şube değişikliği yapabiliyor muyum?',rsp37
+'Seçmiş olduğum derslerde çakışma olursa ne yapmam gerekiyor?',rsp37
+'Seçtiğim dersler çakışırsa ne yapacağım?',rsp37
+'Seçtiğim derslerim arasından çakışanlar olursa ne yapacağım?',rsp37
+'Çakışan derslerim sıkıntı yaratırsa ne yapmam gerekli?',rsp37
+'İki dersimin saati aynıysa ne yapacağım?',rsp37
+'Aynı saatte iki tane farklı dersim varsa ne olur?',rsp37
+'Danışmanım kim?',rsp38
+'Danışman hocam kim?',rsp38
+'Danışman hocam kimdir?',rsp38
+'Bölümümdeki danışman hocam kim?',rsp38
+'Danışmanımı nereden öğrenebilirim?',rsp38
+'Danışman hocamı nereden öğrenirim?',rsp38
+'Danışman hocamı nasıl öğrenirim?',rsp38
+'Danışman öğretmenimi nereden öğrenirim?',rsp38
+'Danışman öğretmenimi nasıl öğrenirim?',rsp38
+'Danışman öğretmenim kim?',rsp38
+'Trakya web mailime nasıl girebilirim?',rsp39
+'Trakya mail hesabıma nasıl girebilirim?',rsp39
+'Trakya web mail hesabıma nasıl girebiirim?',rsp39
+'Trakya web mail hesabıma nasıl girerim?',rsp39
+'Mail hesabıma nasıl giriş sağlarım?',rsp39
+'Web mail hesabıma nasıl erişirim?',rsp39
+'Trakya öğrenci mail hesabıma nasıl giriş sağlarım?',rsp39
+'Öğrenci mail hesabımın bilgileri nasıldır?',rsp39
+'Öğrenci e-posta adresime nasıl ulaşırım?',rsp39
+'Trakya öğrenci e-posta adresime nasıl ulaşırım',rsp39
+'Trakya webmail şifremi nasıl alırım',rsp40
+'Trakya web mail şifremi nerden alırım',rsp40
+'Trakya mail şifremi nasıl alırım?',rsp40
+'Trakya web mail şifremi nasıl alırım?',rsp40
+'Mail hesabımın şifre bilgilerine nerden ulaşırım?',rsp40
+'Mail hesabımın şifre bilgilerine nasıl ulaşırım?'rsp40
+'Web mail hesabımın şifrelerine nasıl ulaşırım?',rsp40
+'Trakya web mail\'imin şifresi ne?',rsp40
+'Mail şifrem ne?',rsp40
+'Mail şifremi söylesene',rsp40
+'Mail şifrem ne lan',rsp40
+'Web mail şifremi söyle',rsp40
+'Kampüs kartımı kaybettim ne yapmalıyım',rsp41
+'Öğrenci kartımı kaybettim?',rsp41
+'Kampüs kartımı çaldırdım napıcam şimdi',rsp41
+'Öğrenci kartımı çaldırdım ne yapmam gerekli?',rsp41
+'Kampüs kartımı yolda düşürdüm ne yapmam gerek?',rsp41
+'Öğrenci kartımı kaybettim ne yapmam lazım',rsp41
+'Kampüs kartımı okulda kaybettim ne yapacağım',rsp41
+'Öğrenci kartımı okulda kaybettim galiba',rsp41
+'Kampüs kartımı yolda düşürmüş olabilirim',rsp41
+'Öğrenci kartımı kaybedersem ne olur'rsp41
+'Staj için nereyle görüşmeliyim?',rsp42
+'Staj için kimle görüşeceğim',rsp42
+'Staj\'la kim ilgileniyor?',rsp42
+'Stajımı yapacağım kimden bilgi alıcam?',rsp42
+'Staj hakkında bilgi almak istiyorum',rsp42
+'Staj konusunda kimden bilgi alabilirim?'rsp42
+'Staj hakkında bikgi sahibi olmak istiyorum',rsp42
+'Staj konusunda kiminle görüşebilirim?',rsp42
+'Diploma eki nasıl alabilirim',rsp43
+'Diploma ekimi nasıl alabilirim',rsp43
+'Diploma ekini nasıl alabilirim',rsp43
+'Diploma eki almak için ne yapmam gerekli?',rsp43
+'Diploma ekini almak için ne yapmam gerekiyor?',rsp43
+'Diploma eki nasıl alınır',rsp43
+'Diplomanın eki\'ne ihtiyacım var nerden alırım?',rsp43
